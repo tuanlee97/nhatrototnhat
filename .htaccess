@@ -1,0 +1,39 @@
+<IfModule mod_rewrite.c>
+    RewriteEngine On
+
+    # Cho phép truy cập
+    Require all granted
+
+    # Ngăn directory listing
+    Options -Indexes
+
+    # Ngăn truy cập trực tiếp vào các thư mục nhạy cảm, trừ index.php và install/index.php
+    RewriteCond %{REQUEST_URI} !^/(index\.php|install/index\.php)$
+    RewriteRule ^(config|core|logs|migrations|cache)(/|$) - [F,L]
+
+    # Cho phép truy cập api-docs.json
+    RewriteCond %{REQUEST_URI} !^/api-docs\.json$
+
+    # Chuyển hướng tất cả request đến index.php, trừ file tĩnh
+    RewriteCond %{REQUEST_FILENAME} !-f
+    RewriteCond %{REQUEST_FILENAME} !-d
+    RewriteRule ^(.*)$ index.php [QSA,L]
+
+    # Bật CORS cho API
+    <IfModule mod_headers.c>
+        Header set Access-Control-Allow-Origin "*"
+        Header set Access-Control-Allow-Methods "GET, POST, PUT, DELETE, OPTIONS"
+        Header set Access-Control-Allow-Headers "Authorization, Content-Type"
+    </IfModule>
+</IfModule>
+
+# Caching cho file tĩnh
+<IfModule mod_expires.c>
+    ExpiresActive On
+    ExpiresByType text/html "access plus 0 seconds"
+    ExpiresByType text/css "access plus 1 month"
+    ExpiresByType application/javascript "access plus 1 month"
+    ExpiresByType image/jpeg "access plus 1 month"
+    ExpiresByType image/png "access plus 1 month"
+    ExpiresByType application/json "access plus 0 seconds"
+</IfModule>

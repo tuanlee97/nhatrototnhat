@@ -1,0 +1,418 @@
+[02-Jun-2025 10:04:36 UTC] getBasePath: http://localhost/workspace/motel-rental-api/
+[02-Jun-2025 10:06:08 UTC] getBasePath: http://localhost/workspace/motel-rental-api/
+[02-Jun-2025 10:06:43 UTC] getBasePath: http://localhost/workspace/motel-rental-api/
+[02-Jun-2025 10:06:45 UTC] getBasePath: http://localhost/workspace/motel-rental-api/
+[02-Jun-2025 10:07:06 UTC] getBasePath: http://localhost/workspace/motel-rental-api/
+[02-Jun-2025 10:07:06 UTC] getBasePath: http://localhost/workspace/motel-rental-api/
+[02-Jun-2025 10:07:07 UTC] getBasePath: http://localhost/workspace/motel-rental-api/
+[02-Jun-2025 10:07:07 UTC] API route NOT matched: GET /
+[02-Jun-2025 10:07:07 UTC] getBasePath: http://localhost/workspace/motel-rental-api/
+[02-Jun-2025 10:07:07 UTC] getBasePath: http://localhost/workspace/motel-rental-api/
+[02-Jun-2025 10:07:07 UTC] API route NOT matched: GET /assets/index-DyI_FA9j.js
+[02-Jun-2025 10:07:07 UTC] API route NOT matched: GET /assets/index-Da_h3vxR.css
+[02-Jun-2025 10:07:07 UTC] getBasePath: http://localhost/workspace/motel-rental-api/
+[02-Jun-2025 10:07:07 UTC] API route NOT matched: GET /images/favicon.png
+[02-Jun-2025 10:07:07 UTC] getBasePath: http://localhost/workspace/motel-rental-api/
+[02-Jun-2025 10:07:07 UTC] API route NOT matched: GET /images/favicon.svg
+[02-Jun-2025 10:11:42 UTC] getBasePath: http://localhost/workspace/motel-rental-api/
+[02-Jun-2025 10:11:42 UTC] API route matched: POST /api/login
+[02-Jun-2025 10:11:42 UTC] getBasePath: http://localhost/workspace/motel-rental-api/
+[02-Jun-2025 10:11:42 UTC] API route matched: GET /api/branches
+[02-Jun-2025 10:11:42 UTC] User ID: 1, Role: admin
+[02-Jun-2025 10:11:42 UTC] getBasePath: http://localhost/workspace/motel-rental-api/
+[02-Jun-2025 10:11:42 UTC] API route matched: GET /api/reports/revenue/all
+[02-Jun-2025 10:11:42 UTC] getBasePath: http://localhost/workspace/motel-rental-api/
+[02-Jun-2025 10:11:42 UTC] API route matched: GET /api/reports/revenue/all
+[02-Jun-2025 10:11:42 UTC] getBasePath: http://localhost/workspace/motel-rental-api/
+[02-Jun-2025 10:11:42 UTC] API route matched: GET /api/reports/rooms/all
+[02-Jun-2025 10:11:42 UTC] getBasePath: http://localhost/workspace/motel-rental-api/
+[02-Jun-2025 10:11:42 UTC] API route matched: GET /api/reports/rooms/all
+[02-Jun-2025 10:11:42 UTC] getBasePath: http://localhost/workspace/motel-rental-api/
+[02-Jun-2025 10:11:42 UTC] API route matched: GET /api/reports/contracts/all
+[02-Jun-2025 10:11:42 UTC] getBasePath: http://localhost/workspace/motel-rental-api/
+[02-Jun-2025 10:11:42 UTC] API route matched: GET /api/reports/contracts/all
+[02-Jun-2025 10:11:42 UTC] getBasePath: http://localhost/workspace/motel-rental-api/
+[02-Jun-2025 10:11:42 UTC] API route matched: GET /api/reports/utility-usage/all
+[02-Jun-2025 10:11:42 UTC] getBasePath: http://localhost/workspace/motel-rental-api/
+[02-Jun-2025 10:11:42 UTC] API route matched: GET /api/reports/utility-usage/all
+[02-Jun-2025 10:11:42 UTC] getBasePath: http://localhost/workspace/motel-rental-api/
+[02-Jun-2025 10:11:42 UTC] API route matched: GET /api/maintenance-requests
+[02-Jun-2025 10:11:42 UTC] getBasePath: http://localhost/workspace/motel-rental-api/
+[02-Jun-2025 10:11:42 UTC] API route matched: GET /api/maintenance-requests
+[02-Jun-2025 10:11:42 UTC] getBasePath: http://localhost/workspace/motel-rental-api/
+[02-Jun-2025 10:11:42 UTC] API route matched: GET /api/tickets
+[02-Jun-2025 10:11:42 UTC] getBasePath: http://localhost/workspace/motel-rental-api/
+[02-Jun-2025 10:11:42 UTC] API route matched: GET /api/tickets
+[02-Jun-2025 10:11:43 UTC] getBasePath: http://localhost/workspace/motel-rental-api/
+[02-Jun-2025 10:11:43 UTC] API route matched: GET /api/branches
+[02-Jun-2025 10:11:43 UTC] User ID: 1, Role: admin
+[02-Jun-2025 10:11:45 UTC] getBasePath: http://localhost/workspace/motel-rental-api/
+[02-Jun-2025 10:11:45 UTC] API route matched: GET /api/branches
+[02-Jun-2025 10:11:45 UTC] User ID: 1, Role: admin
+[02-Jun-2025 10:18:40 UTC] getBasePath: http://localhost/workspace/motel-rental-api/
+[02-Jun-2025 10:18:40 UTC] API route matched: GET /api/branches
+[02-Jun-2025 10:18:40 UTC] getBasePath: http://localhost/workspace/motel-rental-api/
+[02-Jun-2025 10:18:40 UTC] API route matched: GET /api/reports/revenue/all
+[02-Jun-2025 10:18:40 UTC] User ID: 1, Role: admin
+[02-Jun-2025 10:18:40 UTC] getBasePath: http://localhost/workspace/motel-rental-api/
+[02-Jun-2025 10:18:40 UTC] API route matched: GET /api/reports/revenue/all
+[02-Jun-2025 10:18:40 UTC] getBasePath: http://localhost/workspace/motel-rental-api/
+[02-Jun-2025 10:18:40 UTC] API route matched: GET /api/reports/rooms/all
+[02-Jun-2025 10:18:40 UTC] getBasePath: http://localhost/workspace/motel-rental-api/
+[02-Jun-2025 10:18:40 UTC] API route matched: GET /api/reports/rooms/all
+[02-Jun-2025 10:18:40 UTC] getBasePath: http://localhost/workspace/motel-rental-api/
+[02-Jun-2025 10:18:40 UTC] API route matched: GET /api/reports/contracts/all
+[02-Jun-2025 10:18:40 UTC] getBasePath: http://localhost/workspace/motel-rental-api/
+[02-Jun-2025 10:18:40 UTC] API route matched: GET /api/reports/contracts/all
+[02-Jun-2025 10:18:40 UTC] getBasePath: http://localhost/workspace/motel-rental-api/
+[02-Jun-2025 10:18:40 UTC] API route matched: GET /api/reports/utility-usage/all
+[02-Jun-2025 10:18:40 UTC] getBasePath: http://localhost/workspace/motel-rental-api/
+[02-Jun-2025 10:18:40 UTC] API route matched: GET /api/reports/utility-usage/all
+[02-Jun-2025 10:18:40 UTC] getBasePath: http://localhost/workspace/motel-rental-api/
+[02-Jun-2025 10:18:40 UTC] API route matched: GET /api/maintenance-requests
+[02-Jun-2025 10:18:40 UTC] getBasePath: http://localhost/workspace/motel-rental-api/
+[02-Jun-2025 10:18:40 UTC] API route matched: GET /api/maintenance-requests
+[02-Jun-2025 10:18:40 UTC] getBasePath: http://localhost/workspace/motel-rental-api/
+[02-Jun-2025 10:18:40 UTC] API route matched: GET /api/tickets
+[02-Jun-2025 10:18:40 UTC] getBasePath: http://localhost/workspace/motel-rental-api/
+[02-Jun-2025 10:18:40 UTC] API route matched: GET /api/tickets
+[02-Jun-2025 10:18:41 UTC] getBasePath: http://localhost/workspace/motel-rental-api/
+[02-Jun-2025 10:18:41 UTC] API route matched: GET /api/branches
+[02-Jun-2025 10:18:41 UTC] User ID: 1, Role: admin
+[02-Jun-2025 10:18:43 UTC] getBasePath: http://localhost/workspace/motel-rental-api/
+[02-Jun-2025 10:18:43 UTC] API route matched: GET /api/branches
+[02-Jun-2025 10:18:43 UTC] User ID: 1, Role: admin
+[02-Jun-2025 10:19:16 UTC] getBasePath: http://localhost/workspace/motel-rental-api/
+[02-Jun-2025 10:19:16 UTC] API route matched: GET /api/branches
+[02-Jun-2025 10:19:16 UTC] getBasePath: http://localhost/workspace/motel-rental-api/
+[02-Jun-2025 10:19:16 UTC] API route matched: GET /api/reports/revenue/all
+[02-Jun-2025 10:19:16 UTC] User ID: 1, Role: admin
+[02-Jun-2025 10:19:16 UTC] getBasePath: http://localhost/workspace/motel-rental-api/
+[02-Jun-2025 10:19:16 UTC] API route matched: GET /api/reports/revenue/all
+[02-Jun-2025 10:19:16 UTC] getBasePath: http://localhost/workspace/motel-rental-api/
+[02-Jun-2025 10:19:16 UTC] API route matched: GET /api/reports/rooms/all
+[02-Jun-2025 10:19:16 UTC] getBasePath: http://localhost/workspace/motel-rental-api/
+[02-Jun-2025 10:19:16 UTC] API route matched: GET /api/reports/rooms/all
+[02-Jun-2025 10:19:16 UTC] getBasePath: http://localhost/workspace/motel-rental-api/
+[02-Jun-2025 10:19:16 UTC] API route matched: GET /api/reports/contracts/all
+[02-Jun-2025 10:19:16 UTC] getBasePath: http://localhost/workspace/motel-rental-api/
+[02-Jun-2025 10:19:16 UTC] API route matched: GET /api/reports/contracts/all
+[02-Jun-2025 10:19:16 UTC] getBasePath: http://localhost/workspace/motel-rental-api/
+[02-Jun-2025 10:19:16 UTC] API route matched: GET /api/reports/utility-usage/all
+[02-Jun-2025 10:19:16 UTC] getBasePath: http://localhost/workspace/motel-rental-api/
+[02-Jun-2025 10:19:16 UTC] API route matched: GET /api/reports/utility-usage/all
+[02-Jun-2025 10:19:16 UTC] getBasePath: http://localhost/workspace/motel-rental-api/
+[02-Jun-2025 10:19:16 UTC] API route matched: GET /api/maintenance-requests
+[02-Jun-2025 10:19:16 UTC] getBasePath: http://localhost/workspace/motel-rental-api/
+[02-Jun-2025 10:19:16 UTC] API route matched: GET /api/maintenance-requests
+[02-Jun-2025 10:19:16 UTC] getBasePath: http://localhost/workspace/motel-rental-api/
+[02-Jun-2025 10:19:16 UTC] API route matched: GET /api/tickets
+[02-Jun-2025 10:19:16 UTC] getBasePath: http://localhost/workspace/motel-rental-api/
+[02-Jun-2025 10:19:16 UTC] API route matched: GET /api/tickets
+[02-Jun-2025 10:19:17 UTC] getBasePath: http://localhost/workspace/motel-rental-api/
+[02-Jun-2025 10:19:17 UTC] API route matched: GET /api/branches
+[02-Jun-2025 10:19:17 UTC] User ID: 1, Role: admin
+[02-Jun-2025 10:19:19 UTC] getBasePath: http://localhost/workspace/motel-rental-api/
+[02-Jun-2025 10:19:19 UTC] API route matched: GET /api/branches
+[02-Jun-2025 10:19:19 UTC] User ID: 1, Role: admin
+[02-Jun-2025 10:19:46 UTC] getBasePath: http://localhost/workspace/motel-rental-api/
+[02-Jun-2025 10:19:46 UTC] API route matched: GET /api/branches
+[02-Jun-2025 10:19:46 UTC] getBasePath: http://localhost/workspace/motel-rental-api/
+[02-Jun-2025 10:19:46 UTC] API route matched: GET /api/reports/revenue/all
+[02-Jun-2025 10:19:46 UTC] User ID: 1, Role: admin
+[02-Jun-2025 10:19:46 UTC] getBasePath: http://localhost/workspace/motel-rental-api/
+[02-Jun-2025 10:19:46 UTC] API route matched: GET /api/reports/revenue/all
+[02-Jun-2025 10:19:46 UTC] getBasePath: http://localhost/workspace/motel-rental-api/
+[02-Jun-2025 10:19:46 UTC] API route matched: GET /api/reports/rooms/all
+[02-Jun-2025 10:19:46 UTC] getBasePath: http://localhost/workspace/motel-rental-api/
+[02-Jun-2025 10:19:46 UTC] API route matched: GET /api/reports/rooms/all
+[02-Jun-2025 10:19:46 UTC] getBasePath: http://localhost/workspace/motel-rental-api/
+[02-Jun-2025 10:19:46 UTC] API route matched: GET /api/reports/contracts/all
+[02-Jun-2025 10:19:46 UTC] getBasePath: http://localhost/workspace/motel-rental-api/
+[02-Jun-2025 10:19:46 UTC] API route matched: GET /api/reports/contracts/all
+[02-Jun-2025 10:19:46 UTC] getBasePath: http://localhost/workspace/motel-rental-api/
+[02-Jun-2025 10:19:46 UTC] API route matched: GET /api/reports/utility-usage/all
+[02-Jun-2025 10:19:46 UTC] getBasePath: http://localhost/workspace/motel-rental-api/
+[02-Jun-2025 10:19:46 UTC] API route matched: GET /api/reports/utility-usage/all
+[02-Jun-2025 10:19:46 UTC] getBasePath: http://localhost/workspace/motel-rental-api/
+[02-Jun-2025 10:19:46 UTC] API route matched: GET /api/maintenance-requests
+[02-Jun-2025 10:19:46 UTC] getBasePath: http://localhost/workspace/motel-rental-api/
+[02-Jun-2025 10:19:46 UTC] API route matched: GET /api/maintenance-requests
+[02-Jun-2025 10:19:46 UTC] getBasePath: http://localhost/workspace/motel-rental-api/
+[02-Jun-2025 10:19:46 UTC] API route matched: GET /api/tickets
+[02-Jun-2025 10:19:46 UTC] getBasePath: http://localhost/workspace/motel-rental-api/
+[02-Jun-2025 10:19:46 UTC] API route matched: GET /api/tickets
+[02-Jun-2025 10:21:25 UTC] getBasePath: http://localhost/workspace/motel-rental-api/
+[02-Jun-2025 10:21:25 UTC] API route matched: GET /api/users
+[02-Jun-2025 10:21:27 UTC] getBasePath: http://localhost/workspace/motel-rental-api/
+[02-Jun-2025 10:21:27 UTC] API route matched: GET /api/branches
+[02-Jun-2025 10:21:27 UTC] User ID: 1, Role: admin
+[02-Jun-2025 10:21:28 UTC] getBasePath: http://localhost/workspace/motel-rental-api/
+[02-Jun-2025 10:21:28 UTC] API route matched: GET /api/branches
+[02-Jun-2025 10:21:28 UTC] User ID: 1, Role: admin
+[02-Jun-2025 10:21:28 UTC] getBasePath: http://localhost/workspace/motel-rental-api/
+[02-Jun-2025 10:21:28 UTC] API route matched: GET /api/rooms
+[02-Jun-2025 10:21:30 UTC] getBasePath: http://localhost/workspace/motel-rental-api/
+[02-Jun-2025 10:21:30 UTC] API route matched: GET /api/contracts
+[02-Jun-2025 10:21:31 UTC] getBasePath: http://localhost/workspace/motel-rental-api/
+[02-Jun-2025 10:21:31 UTC] API route matched: GET /api/tickets
+[02-Jun-2025 10:21:31 UTC] getBasePath: http://localhost/workspace/motel-rental-api/
+[02-Jun-2025 10:21:31 UTC] API route matched: GET /api/branches
+[02-Jun-2025 10:21:31 UTC] User ID: 1, Role: admin
+[02-Jun-2025 10:21:32 UTC] getBasePath: http://localhost/workspace/motel-rental-api/
+[02-Jun-2025 10:21:32 UTC] API route matched: GET /api/maintenance-requests
+[02-Jun-2025 10:21:33 UTC] getBasePath: http://localhost/workspace/motel-rental-api/
+[02-Jun-2025 10:21:33 UTC] API route matched: GET /api/utility_usage
+[02-Jun-2025 10:21:33 UTC] getBasePath: http://localhost/workspace/motel-rental-api/
+[02-Jun-2025 10:21:33 UTC] API route matched: GET /api/invoices
+[02-Jun-2025 10:37:57 UTC] getBasePath: http://localhost/workspace/motel-rental-api/
+[02-Jun-2025 10:37:57 UTC] API route matched: PUT /api/users/1
+[02-Jun-2025 10:37:57 UTC] SQLSTATE[42S22]: Column not found: 1054 Unknown column 'dob' in 'field list'
+[02-Jun-2025 10:42:12 UTC] getBasePath: http://localhost/workspace/motel-rental-api/
+[02-Jun-2025 10:42:12 UTC] API route matched: PUT /api/users/1
+[02-Jun-2025 10:43:09 UTC] getBasePath: http://localhost/workspace/motel-rental-api/
+[02-Jun-2025 10:43:09 UTC] API route matched: PUT /api/users/1
+[02-Jun-2025 10:44:04 UTC] getBasePath: http://localhost/workspace/motel-rental-api/
+[02-Jun-2025 10:44:04 UTC] API route matched: POST /api/logout
+[02-Jun-2025 10:44:07 UTC] getBasePath: http://localhost/workspace/motel-rental-api/
+[02-Jun-2025 10:44:07 UTC] API route matched: POST /api/login
+[02-Jun-2025 10:44:08 UTC] getBasePath: http://localhost/workspace/motel-rental-api/
+[02-Jun-2025 10:44:08 UTC] API route matched: GET /api/branches
+[02-Jun-2025 10:44:08 UTC] getBasePath: http://localhost/workspace/motel-rental-api/
+[02-Jun-2025 10:44:08 UTC] API route matched: GET /api/reports/revenue/all
+[02-Jun-2025 10:44:08 UTC] User ID: 1, Role: admin
+[02-Jun-2025 10:44:08 UTC] getBasePath: http://localhost/workspace/motel-rental-api/
+[02-Jun-2025 10:44:08 UTC] API route matched: GET /api/reports/revenue/all
+[02-Jun-2025 10:44:08 UTC] getBasePath: http://localhost/workspace/motel-rental-api/
+[02-Jun-2025 10:44:08 UTC] API route matched: GET /api/reports/rooms/all
+[02-Jun-2025 10:44:08 UTC] getBasePath: http://localhost/workspace/motel-rental-api/
+[02-Jun-2025 10:44:08 UTC] API route matched: GET /api/reports/rooms/all
+[02-Jun-2025 10:44:08 UTC] getBasePath: http://localhost/workspace/motel-rental-api/
+[02-Jun-2025 10:44:08 UTC] API route matched: GET /api/reports/contracts/all
+[02-Jun-2025 10:44:08 UTC] getBasePath: http://localhost/workspace/motel-rental-api/
+[02-Jun-2025 10:44:08 UTC] API route matched: GET /api/reports/contracts/all
+[02-Jun-2025 10:44:08 UTC] getBasePath: http://localhost/workspace/motel-rental-api/
+[02-Jun-2025 10:44:08 UTC] API route matched: GET /api/reports/utility-usage/all
+[02-Jun-2025 10:44:08 UTC] getBasePath: http://localhost/workspace/motel-rental-api/
+[02-Jun-2025 10:44:08 UTC] API route matched: GET /api/reports/utility-usage/all
+[02-Jun-2025 10:44:08 UTC] getBasePath: http://localhost/workspace/motel-rental-api/
+[02-Jun-2025 10:44:08 UTC] API route matched: GET /api/maintenance-requests
+[02-Jun-2025 10:44:08 UTC] getBasePath: http://localhost/workspace/motel-rental-api/
+[02-Jun-2025 10:44:08 UTC] API route matched: GET /api/maintenance-requests
+[02-Jun-2025 10:44:08 UTC] getBasePath: http://localhost/workspace/motel-rental-api/
+[02-Jun-2025 10:44:08 UTC] API route matched: GET /api/tickets
+[02-Jun-2025 10:44:08 UTC] getBasePath: http://localhost/workspace/motel-rental-api/
+[02-Jun-2025 10:44:08 UTC] API route matched: GET /api/tickets
+[03-Jun-2025 05:03:31 UTC] getBasePath: http://localhost/workspace/motel-rental-api/
+[03-Jun-2025 05:03:31 UTC] API route matched: POST /api/login
+[03-Jun-2025 05:03:42 UTC] getBasePath: http://localhost/workspace/motel-rental-api/
+[03-Jun-2025 05:03:42 UTC] API route matched: POST /api/login
+[03-Jun-2025 05:04:11 UTC] getBasePath: http://localhost/workspace/motel-rental-api/
+[03-Jun-2025 05:04:11 UTC] API route matched: POST /api/login
+[03-Jun-2025 05:04:11 UTC] getBasePath: http://localhost/workspace/motel-rental-api/
+[03-Jun-2025 05:04:11 UTC] getBasePath: http://localhost/workspace/motel-rental-api/
+[03-Jun-2025 05:04:11 UTC] API route matched: GET /api/reports/revenue/all
+[03-Jun-2025 05:04:11 UTC] API route matched: GET /api/branches
+[03-Jun-2025 05:04:11 UTC] User ID: 1, Role: admin
+[03-Jun-2025 05:04:11 UTC] getBasePath: http://localhost/workspace/motel-rental-api/
+[03-Jun-2025 05:04:11 UTC] API route matched: GET /api/reports/revenue/all
+[03-Jun-2025 05:04:11 UTC] getBasePath: http://localhost/workspace/motel-rental-api/
+[03-Jun-2025 05:04:11 UTC] API route matched: GET /api/reports/rooms/all
+[03-Jun-2025 05:04:11 UTC] getBasePath: http://localhost/workspace/motel-rental-api/
+[03-Jun-2025 05:04:11 UTC] API route matched: GET /api/reports/rooms/all
+[03-Jun-2025 05:04:11 UTC] getBasePath: http://localhost/workspace/motel-rental-api/
+[03-Jun-2025 05:04:11 UTC] API route matched: GET /api/reports/contracts/all
+[03-Jun-2025 05:04:11 UTC] getBasePath: http://localhost/workspace/motel-rental-api/
+[03-Jun-2025 05:04:11 UTC] API route matched: GET /api/reports/contracts/all
+[03-Jun-2025 05:04:11 UTC] getBasePath: http://localhost/workspace/motel-rental-api/
+[03-Jun-2025 05:04:11 UTC] API route matched: GET /api/reports/utility-usage/all
+[03-Jun-2025 05:04:11 UTC] getBasePath: http://localhost/workspace/motel-rental-api/
+[03-Jun-2025 05:04:11 UTC] API route matched: GET /api/reports/utility-usage/all
+[03-Jun-2025 05:04:11 UTC] getBasePath: http://localhost/workspace/motel-rental-api/
+[03-Jun-2025 05:04:11 UTC] API route matched: GET /api/maintenance-requests
+[03-Jun-2025 05:04:11 UTC] getBasePath: http://localhost/workspace/motel-rental-api/
+[03-Jun-2025 05:04:11 UTC] API route matched: GET /api/maintenance-requests
+[03-Jun-2025 05:04:11 UTC] getBasePath: http://localhost/workspace/motel-rental-api/
+[03-Jun-2025 05:04:11 UTC] API route matched: GET /api/tickets
+[03-Jun-2025 05:04:11 UTC] getBasePath: http://localhost/workspace/motel-rental-api/
+[03-Jun-2025 05:04:11 UTC] API route matched: GET /api/tickets
+[03-Jun-2025 06:12:58 UTC] getBasePath: http://localhost/workspace/motel-rental-api/
+[03-Jun-2025 06:12:58 UTC] API route matched: POST /api/login
+[03-Jun-2025 06:12:58 UTC] getBasePath: http://localhost/workspace/motel-rental-api/
+[03-Jun-2025 06:12:58 UTC] API route matched: GET /api/branches
+[03-Jun-2025 06:12:58 UTC] getBasePath: http://localhost/workspace/motel-rental-api/
+[03-Jun-2025 06:12:58 UTC] API route matched: GET /api/reports/revenue/all
+[03-Jun-2025 06:12:58 UTC] User ID: 1, Role: admin
+[03-Jun-2025 06:12:58 UTC] getBasePath: http://localhost/workspace/motel-rental-api/
+[03-Jun-2025 06:12:58 UTC] API route matched: GET /api/reports/revenue/all
+[03-Jun-2025 06:12:58 UTC] getBasePath: http://localhost/workspace/motel-rental-api/
+[03-Jun-2025 06:12:58 UTC] API route matched: GET /api/reports/rooms/all
+[03-Jun-2025 06:12:58 UTC] getBasePath: http://localhost/workspace/motel-rental-api/
+[03-Jun-2025 06:12:58 UTC] API route matched: GET /api/reports/rooms/all
+[03-Jun-2025 06:12:58 UTC] getBasePath: http://localhost/workspace/motel-rental-api/
+[03-Jun-2025 06:12:58 UTC] API route matched: GET /api/reports/contracts/all
+[03-Jun-2025 06:12:58 UTC] getBasePath: http://localhost/workspace/motel-rental-api/
+[03-Jun-2025 06:12:58 UTC] API route matched: GET /api/reports/contracts/all
+[03-Jun-2025 06:12:58 UTC] getBasePath: http://localhost/workspace/motel-rental-api/
+[03-Jun-2025 06:12:58 UTC] API route matched: GET /api/reports/utility-usage/all
+[03-Jun-2025 06:12:58 UTC] getBasePath: http://localhost/workspace/motel-rental-api/
+[03-Jun-2025 06:12:58 UTC] API route matched: GET /api/reports/utility-usage/all
+[03-Jun-2025 06:12:58 UTC] getBasePath: http://localhost/workspace/motel-rental-api/
+[03-Jun-2025 06:12:58 UTC] API route matched: GET /api/maintenance-requests
+[03-Jun-2025 06:12:59 UTC] getBasePath: http://localhost/workspace/motel-rental-api/
+[03-Jun-2025 06:12:59 UTC] API route matched: GET /api/maintenance-requests
+[03-Jun-2025 06:12:59 UTC] getBasePath: http://localhost/workspace/motel-rental-api/
+[03-Jun-2025 06:12:59 UTC] API route matched: GET /api/tickets
+[03-Jun-2025 06:12:59 UTC] getBasePath: http://localhost/workspace/motel-rental-api/
+[03-Jun-2025 06:12:59 UTC] API route matched: GET /api/tickets
+[03-Jun-2025 06:14:07 UTC] getBasePath: http://localhost/workspace/motel-rental-api/
+[03-Jun-2025 06:14:07 UTC] API route matched: PUT /api/users/1
+[03-Jun-2025 06:17:59 UTC] getBasePath: http://localhost/workspace/motel-rental-api/
+[03-Jun-2025 06:17:59 UTC] API route matched: PUT /api/users/1
+[03-Jun-2025 06:17:59 UTC] getBasePath: http://localhost/workspace/motel-rental-api/
+[03-Jun-2025 06:17:59 UTC] API route matched: GET /api/user
+[03-Jun-2025 06:17:59 UTC] PHP Warning:  Undefined array key "token" in /var/www/html/workspace/motel-rental-api/api/users.php on line 759
+[03-Jun-2025 06:18:22 UTC] getBasePath: http://localhost/workspace/motel-rental-api/
+[03-Jun-2025 06:18:22 UTC] API route matched: POST /api/upload-qr
+[03-Jun-2025 06:18:22 UTC] getBasePath: http://localhost/workspace/motel-rental-api/
+[03-Jun-2025 06:18:22 UTC] getBasePath: http://localhost/workspace/motel-rental-api/
+[03-Jun-2025 06:18:22 UTC] API route matched: PATCH /api/users/1
+[03-Jun-2025 06:18:22 UTC] getBasePath: http://localhost/workspace/motel-rental-api/
+[03-Jun-2025 06:18:22 UTC] API route matched: GET /api/user
+[03-Jun-2025 06:18:22 UTC] PHP Warning:  Undefined array key "token" in /var/www/html/workspace/motel-rental-api/api/users.php on line 759
+[03-Jun-2025 06:23:36 UTC] getBasePath: http://localhost/workspace/motel-rental-api/
+[03-Jun-2025 06:23:36 UTC] API route matched: GET /api/branches
+[03-Jun-2025 06:23:36 UTC] getBasePath: http://localhost/workspace/motel-rental-api/
+[03-Jun-2025 06:23:36 UTC] API route matched: GET /api/reports/revenue/all
+[03-Jun-2025 06:23:36 UTC] User ID: 1, Role: admin
+[03-Jun-2025 06:23:36 UTC] getBasePath: http://localhost/workspace/motel-rental-api/
+[03-Jun-2025 06:23:36 UTC] API route matched: GET /api/reports/revenue/all
+[03-Jun-2025 06:23:36 UTC] getBasePath: http://localhost/workspace/motel-rental-api/
+[03-Jun-2025 06:23:36 UTC] API route matched: GET /api/reports/rooms/all
+[03-Jun-2025 06:23:36 UTC] getBasePath: http://localhost/workspace/motel-rental-api/
+[03-Jun-2025 06:23:36 UTC] API route matched: GET /api/reports/rooms/all
+[03-Jun-2025 06:23:36 UTC] getBasePath: http://localhost/workspace/motel-rental-api/
+[03-Jun-2025 06:23:36 UTC] API route matched: GET /api/reports/contracts/all
+[03-Jun-2025 06:23:36 UTC] getBasePath: http://localhost/workspace/motel-rental-api/
+[03-Jun-2025 06:23:36 UTC] API route matched: GET /api/reports/contracts/all
+[03-Jun-2025 06:23:36 UTC] getBasePath: http://localhost/workspace/motel-rental-api/
+[03-Jun-2025 06:23:36 UTC] API route matched: GET /api/reports/utility-usage/all
+[03-Jun-2025 06:23:36 UTC] getBasePath: http://localhost/workspace/motel-rental-api/
+[03-Jun-2025 06:23:36 UTC] API route matched: GET /api/reports/utility-usage/all
+[03-Jun-2025 06:23:36 UTC] getBasePath: http://localhost/workspace/motel-rental-api/
+[03-Jun-2025 06:23:36 UTC] API route matched: GET /api/maintenance-requests
+[03-Jun-2025 06:23:36 UTC] getBasePath: http://localhost/workspace/motel-rental-api/
+[03-Jun-2025 06:23:36 UTC] API route matched: GET /api/maintenance-requests
+[03-Jun-2025 06:23:36 UTC] getBasePath: http://localhost/workspace/motel-rental-api/
+[03-Jun-2025 06:23:36 UTC] API route matched: GET /api/tickets
+[03-Jun-2025 06:23:36 UTC] getBasePath: http://localhost/workspace/motel-rental-api/
+[03-Jun-2025 06:23:36 UTC] API route matched: GET /api/tickets
+[03-Jun-2025 06:23:40 UTC] getBasePath: http://localhost/workspace/motel-rental-api/
+[03-Jun-2025 06:23:40 UTC] API route matched: GET /api/users
+[03-Jun-2025 06:24:00 UTC] getBasePath: http://localhost/workspace/motel-rental-api/
+[03-Jun-2025 06:24:00 UTC] API route matched: GET /api/users
+[03-Jun-2025 06:24:05 UTC] getBasePath: http://localhost/workspace/motel-rental-api/
+[03-Jun-2025 06:24:05 UTC] API route matched: GET /api/users
+[03-Jun-2025 06:24:10 UTC] getBasePath: http://localhost/workspace/motel-rental-api/
+[03-Jun-2025 06:24:10 UTC] API route matched: GET /api/branches
+[03-Jun-2025 06:24:10 UTC] User ID: 1, Role: admin
+[03-Jun-2025 06:24:12 UTC] getBasePath: http://localhost/workspace/motel-rental-api/
+[03-Jun-2025 06:24:12 UTC] API route matched: GET /api/branches
+[03-Jun-2025 06:24:12 UTC] User ID: 1, Role: admin
+[03-Jun-2025 06:24:12 UTC] getBasePath: http://localhost/workspace/motel-rental-api/
+[03-Jun-2025 06:24:12 UTC] API route matched: GET /api/rooms
+[03-Jun-2025 06:24:13 UTC] getBasePath: http://localhost/workspace/motel-rental-api/
+[03-Jun-2025 06:24:13 UTC] API route matched: GET /api/contracts
+[03-Jun-2025 06:24:14 UTC] getBasePath: http://localhost/workspace/motel-rental-api/
+[03-Jun-2025 06:24:14 UTC] API route matched: GET /api/maintenance-requests
+[03-Jun-2025 06:24:14 UTC] getBasePath: http://localhost/workspace/motel-rental-api/
+[03-Jun-2025 06:24:14 UTC] API route matched: GET /api/branches
+[03-Jun-2025 06:24:14 UTC] User ID: 1, Role: admin
+[03-Jun-2025 06:24:14 UTC] getBasePath: http://localhost/workspace/motel-rental-api/
+[03-Jun-2025 06:24:14 UTC] API route matched: GET /api/utility_usage
+[03-Jun-2025 06:24:15 UTC] getBasePath: http://localhost/workspace/motel-rental-api/
+[03-Jun-2025 06:24:15 UTC] API route matched: GET /api/invoices
+[03-Jun-2025 06:24:17 UTC] getBasePath: http://localhost/workspace/motel-rental-api/
+[03-Jun-2025 06:24:17 UTC] getBasePath: http://localhost/workspace/motel-rental-api/
+[03-Jun-2025 06:24:17 UTC] API route matched: GET /api/branches
+[03-Jun-2025 06:24:17 UTC] API route matched: GET /api/invoices
+[03-Jun-2025 06:24:17 UTC] User ID: 1, Role: admin
+[03-Jun-2025 06:24:18 UTC] getBasePath: http://localhost/workspace/motel-rental-api/
+[03-Jun-2025 06:24:18 UTC] API route matched: GET /api/tickets
+[03-Jun-2025 06:24:18 UTC] getBasePath: http://localhost/workspace/motel-rental-api/
+[03-Jun-2025 06:24:18 UTC] API route matched: GET /api/branches
+[03-Jun-2025 06:24:18 UTC] User ID: 1, Role: admin
+[03-Jun-2025 06:24:19 UTC] getBasePath: http://localhost/workspace/motel-rental-api/
+[03-Jun-2025 06:24:19 UTC] API route matched: GET /api/maintenance-requests
+[03-Jun-2025 06:24:20 UTC] getBasePath: http://localhost/workspace/motel-rental-api/
+[03-Jun-2025 06:24:20 UTC] API route matched: GET /api/utility_usage
+[03-Jun-2025 06:24:32 UTC] getBasePath: http://localhost/workspace/motel-rental-api/
+[03-Jun-2025 06:24:32 UTC] API route matched: GET /api/branches
+[03-Jun-2025 06:24:32 UTC] getBasePath: http://localhost/workspace/motel-rental-api/
+[03-Jun-2025 06:24:32 UTC] API route matched: GET /api/utility_usage
+[03-Jun-2025 06:24:32 UTC] User ID: 1, Role: admin
+[03-Jun-2025 06:24:34 UTC] getBasePath: http://localhost/workspace/motel-rental-api/
+[03-Jun-2025 06:24:34 UTC] API route matched: GET /api/invoices
+[03-Jun-2025 06:24:47 UTC] getBasePath: http://localhost/workspace/motel-rental-api/
+[03-Jun-2025 06:24:47 UTC] getBasePath: http://localhost/workspace/motel-rental-api/
+[03-Jun-2025 06:24:47 UTC] API route matched: GET /api/branches
+[03-Jun-2025 06:24:47 UTC] API route matched: GET /api/reports/revenue/all
+[03-Jun-2025 06:24:47 UTC] User ID: 1, Role: admin
+[03-Jun-2025 06:24:47 UTC] getBasePath: http://localhost/workspace/motel-rental-api/
+[03-Jun-2025 06:24:47 UTC] API route matched: GET /api/reports/revenue/all
+[03-Jun-2025 06:24:47 UTC] getBasePath: http://localhost/workspace/motel-rental-api/
+[03-Jun-2025 06:24:47 UTC] API route matched: GET /api/reports/rooms/all
+[03-Jun-2025 06:24:47 UTC] getBasePath: http://localhost/workspace/motel-rental-api/
+[03-Jun-2025 06:24:47 UTC] API route matched: GET /api/reports/rooms/all
+[03-Jun-2025 06:24:47 UTC] getBasePath: http://localhost/workspace/motel-rental-api/
+[03-Jun-2025 06:24:47 UTC] API route matched: GET /api/reports/contracts/all
+[03-Jun-2025 06:24:47 UTC] getBasePath: http://localhost/workspace/motel-rental-api/
+[03-Jun-2025 06:24:47 UTC] API route matched: GET /api/reports/contracts/all
+[03-Jun-2025 06:24:47 UTC] getBasePath: http://localhost/workspace/motel-rental-api/
+[03-Jun-2025 06:24:47 UTC] API route matched: GET /api/reports/utility-usage/all
+[03-Jun-2025 06:24:47 UTC] getBasePath: http://localhost/workspace/motel-rental-api/
+[03-Jun-2025 06:24:47 UTC] API route matched: GET /api/reports/utility-usage/all
+[03-Jun-2025 06:24:47 UTC] getBasePath: http://localhost/workspace/motel-rental-api/
+[03-Jun-2025 06:24:47 UTC] API route matched: GET /api/maintenance-requests
+[03-Jun-2025 06:24:47 UTC] getBasePath: http://localhost/workspace/motel-rental-api/
+[03-Jun-2025 06:24:47 UTC] API route matched: GET /api/maintenance-requests
+[03-Jun-2025 06:24:47 UTC] getBasePath: http://localhost/workspace/motel-rental-api/
+[03-Jun-2025 06:24:47 UTC] API route matched: GET /api/tickets
+[03-Jun-2025 06:24:47 UTC] getBasePath: http://localhost/workspace/motel-rental-api/
+[03-Jun-2025 06:24:47 UTC] API route matched: GET /api/tickets
+[03-Jun-2025 06:36:13 UTC] getBasePath: http://localhost/workspace/motel-rental-api/
+[03-Jun-2025 06:36:13 UTC] API route matched: GET /api/reports/revenue/all
+[03-Jun-2025 06:36:13 UTC] getBasePath: http://localhost/workspace/motel-rental-api/
+[03-Jun-2025 06:36:13 UTC] API route matched: GET /api/reports/rooms/all
+[03-Jun-2025 06:36:13 UTC] getBasePath: http://localhost/workspace/motel-rental-api/
+[03-Jun-2025 06:36:13 UTC] API route matched: GET /api/reports/contracts/all
+[03-Jun-2025 06:36:13 UTC] getBasePath: http://localhost/workspace/motel-rental-api/
+[03-Jun-2025 06:36:13 UTC] API route matched: GET /api/reports/utility-usage/all
+[03-Jun-2025 06:36:13 UTC] getBasePath: http://localhost/workspace/motel-rental-api/
+[03-Jun-2025 06:36:13 UTC] API route matched: GET /api/maintenance-requests
+[03-Jun-2025 06:36:13 UTC] getBasePath: http://localhost/workspace/motel-rental-api/
+[03-Jun-2025 06:36:13 UTC] API route matched: GET /api/tickets
+[03-Jun-2025 06:36:19 UTC] getBasePath: http://localhost/workspace/motel-rental-api/
+[03-Jun-2025 06:36:19 UTC] API route matched: GET /api/reports/revenue/all
+[03-Jun-2025 06:36:19 UTC] getBasePath: http://localhost/workspace/motel-rental-api/
+[03-Jun-2025 06:36:19 UTC] API route matched: GET /api/reports/rooms/all
+[03-Jun-2025 06:36:19 UTC] getBasePath: http://localhost/workspace/motel-rental-api/
+[03-Jun-2025 06:36:19 UTC] API route matched: GET /api/reports/contracts/all
+[03-Jun-2025 06:36:19 UTC] getBasePath: http://localhost/workspace/motel-rental-api/
+[03-Jun-2025 06:36:19 UTC] API route matched: GET /api/reports/utility-usage/all
+[03-Jun-2025 06:36:19 UTC] getBasePath: http://localhost/workspace/motel-rental-api/
+[03-Jun-2025 06:36:19 UTC] API route matched: GET /api/maintenance-requests
+[03-Jun-2025 06:36:19 UTC] getBasePath: http://localhost/workspace/motel-rental-api/
+[03-Jun-2025 06:36:19 UTC] API route matched: GET /api/tickets
+[03-Jun-2025 06:36:20 UTC] getBasePath: http://localhost/workspace/motel-rental-api/
+[03-Jun-2025 06:36:20 UTC] API route matched: GET /api/reports/revenue/all
+[03-Jun-2025 06:36:20 UTC] getBasePath: http://localhost/workspace/motel-rental-api/
+[03-Jun-2025 06:36:20 UTC] API route matched: GET /api/reports/rooms/all
+[03-Jun-2025 06:36:20 UTC] getBasePath: http://localhost/workspace/motel-rental-api/
+[03-Jun-2025 06:36:20 UTC] API route matched: GET /api/reports/contracts/all
+[03-Jun-2025 06:36:20 UTC] getBasePath: http://localhost/workspace/motel-rental-api/
+[03-Jun-2025 06:36:20 UTC] API route matched: GET /api/reports/utility-usage/all
+[03-Jun-2025 06:36:20 UTC] getBasePath: http://localhost/workspace/motel-rental-api/
+[03-Jun-2025 06:36:20 UTC] API route matched: GET /api/maintenance-requests
+[03-Jun-2025 06:36:20 UTC] getBasePath: http://localhost/workspace/motel-rental-api/
+[03-Jun-2025 06:36:20 UTC] API route matched: GET /api/tickets
