@@ -26,6 +26,7 @@
 Ví dụ lệnh phân quyền:
 
 ```bash
+sudo chown -R www-data:www-data .
 sudo chmod -R 775 logs
 sudo chmod -R 775 config
 sudo chown -R www-data:www-data cache

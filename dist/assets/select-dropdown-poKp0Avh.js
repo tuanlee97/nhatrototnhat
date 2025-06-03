@@ -1,6 +1,0 @@
-import{V as x,j as e,S as g,k as j,s as v,f as S,v as k,w as m,x as c}from"./index-CJ1AcNxb.js";/**
- * @license @tabler/icons-react v3.31.0 - MIT
- *
- * This source code is licensed under the MIT license.
- * See the LICENSE file in the root directory of this source tree.
- */var y=x("outline","loader","IconLoader",[["path",{d:"M12 6l0 -3",key:"svg-0"}],["path",{d:"M16.25 7.75l2.15 -2.15",key:"svg-1"}],["path",{d:"M18 12l3 0",key:"svg-2"}],["path",{d:"M16.25 16.25l2.15 2.15",key:"svg-3"}],["path",{d:"M12 18l0 3",key:"svg-4"}],["path",{d:"M7.75 16.25l-2.15 2.15",key:"svg-5"}],["path",{d:"M6 12l-3 0",key:"svg-6"}],["path",{d:"M7.75 7.75l-2.15 -2.15",key:"svg-7"}]]);function f({defaultValue:a,onValueChange:l,isPending:r,items:s,placeholder:n,disabled:d,className:o="",isControlled:h=!1}){const p=h?{value:a,onValueChange:l}:{defaultValue:a,onValueChange:l};return e.jsxs(g,{...p,children:[e.jsx(j,{children:e.jsx(v,{disabled:d,className:S(o),children:e.jsx(k,{placeholder:n??"Select"})})}),e.jsx(m,{children:r?e.jsx(c,{disabled:!0,value:"loading",className:"h-14",children:e.jsxs("div",{className:"flex items-center justify-center gap-2",children:[e.jsx(y,{className:"h-5 w-5 animate-spin"}),"  ","Loading..."]})}):s==null?void 0:s.map(({label:i,value:t})=>e.jsx(c,{value:t,children:i},t))})]})}export{f as S};

@@ -416,3 +416,645 @@
 [03-Jun-2025 06:36:20 UTC] API route matched: GET /api/maintenance-requests
 [03-Jun-2025 06:36:20 UTC] getBasePath: http://localhost/workspace/motel-rental-api/
 [03-Jun-2025 06:36:20 UTC] API route matched: GET /api/tickets
+[03-Jun-2025 08:23:59 UTC] getBasePath: http://localhost/full/
+[03-Jun-2025 08:24:14 UTC] getBasePath: http://localhost/full/
+[03-Jun-2025 08:24:16 UTC] getBasePath: http://localhost/full/
+[03-Jun-2025 08:24:27 UTC] getBasePath: http://localhost/full/
+[03-Jun-2025 08:24:27 UTC] getBasePath: http://localhost/full/
+[03-Jun-2025 08:24:29 UTC] getBasePath: http://localhost/full/
+[03-Jun-2025 08:24:29 UTC] API route NOT matched: GET /
+[03-Jun-2025 08:24:29 UTC] getBasePath: http://localhost/full/
+[03-Jun-2025 08:24:29 UTC] API route NOT matched: GET /assets/index-CJ1AcNxb.js
+[03-Jun-2025 08:24:29 UTC] getBasePath: http://localhost/full/
+[03-Jun-2025 08:24:29 UTC] API route NOT matched: GET /assets/index-Da_h3vxR.css
+[03-Jun-2025 08:24:29 UTC] getBasePath: http://localhost/full/
+[03-Jun-2025 08:24:29 UTC] API route NOT matched: GET /images/favicon.png
+[03-Jun-2025 08:24:29 UTC] getBasePath: http://localhost/full/
+[03-Jun-2025 08:24:29 UTC] API route NOT matched: GET /images/favicon.svg
+[03-Jun-2025 08:24:33 UTC] getBasePath: http://localhost/full/
+[03-Jun-2025 08:24:33 UTC] API route NOT matched: GET /assets/forgot-password.lazy-CKLpBTmF.js
+[03-Jun-2025 08:24:35 UTC] getBasePath: http://localhost/full/
+[03-Jun-2025 08:24:35 UTC] API route matched: POST /api/login
+[03-Jun-2025 08:24:35 UTC] PHP Warning:  file_put_contents(/var/www/html/full/core/../cache/rate_limit.json): Failed to open stream: Permission denied in /var/www/html/full/core/helpers.php on line 52
+[03-Jun-2025 08:24:35 UTC] PHP Warning:  require(/var/www/html/full/core/../config/app.php): Failed to open stream: No such file or directory in /var/www/html/full/core/auth.php on line 6
+[03-Jun-2025 08:24:35 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/var/www/html/full/core/../config/app.php' (include_path='.:/usr/share/php') in /var/www/html/full/core/auth.php:6
+Stack trace:
+#0 /var/www/html/full/api/auth.php(28): generateJWT()
+#1 /var/www/html/full/core/router.php(696): login()
+#2 /var/www/html/full/index.php(41): handleApiRequest()
+#3 {main}
+  thrown in /var/www/html/full/core/auth.php on line 6
+[03-Jun-2025 08:26:18 UTC] getBasePath: http://localhost/full/
+[03-Jun-2025 08:26:18 UTC] API route matched: POST /api/login
+[03-Jun-2025 08:26:18 UTC] PHP Warning:  file_put_contents(/var/www/html/full/core/../cache/rate_limit.json): Failed to open stream: Permission denied in /var/www/html/full/core/helpers.php on line 52
+[03-Jun-2025 08:26:19 UTC] getBasePath: http://localhost/full/
+[03-Jun-2025 08:26:19 UTC] API route NOT matched: GET /images/favicon.png
+[03-Jun-2025 08:26:22 UTC] getBasePath: http://localhost/full/
+[03-Jun-2025 08:26:22 UTC] API route NOT matched: GET /assets/404.lazy-DXZ5WZ4n.js
+[03-Jun-2025 08:26:22 UTC] getBasePath: http://localhost/full/
+[03-Jun-2025 08:26:22 UTC] API route NOT matched: GET /images/favicon.png
+[03-Jun-2025 08:26:55 UTC] getBasePath: http://localhost/full/
+[03-Jun-2025 08:26:55 UTC] API route NOT matched: GET /
+[03-Jun-2025 08:26:55 UTC] getBasePath: http://localhost/full/
+[03-Jun-2025 08:26:55 UTC] API route NOT matched: GET /assets/index-D5bBTiJF.js
+[03-Jun-2025 08:26:55 UTC] getBasePath: http://localhost/full/
+[03-Jun-2025 08:26:55 UTC] API route NOT matched: GET /assets/index-Da_h3vxR.css
+[03-Jun-2025 08:26:55 UTC] getBasePath: http://localhost/full/
+[03-Jun-2025 08:26:55 UTC] API route NOT matched: GET /images/favicon.png
+[03-Jun-2025 08:26:59 UTC] getBasePath: http://localhost/full/
+[03-Jun-2025 08:26:59 UTC] API route NOT matched: GET /assets/404.lazy-4yuj3NyK.js
+[03-Jun-2025 08:26:59 UTC] getBasePath: http://localhost/full/
+[03-Jun-2025 08:26:59 UTC] API route NOT matched: GET /images/favicon.png
+[03-Jun-2025 08:30:49 UTC] getBasePath: http://localhost/full/
+[03-Jun-2025 08:30:49 UTC] API route NOT matched: GET /
+[03-Jun-2025 08:30:50 UTC] getBasePath: http://localhost/full/
+[03-Jun-2025 08:30:50 UTC] API route NOT matched: GET /assets/index-D2dyKddW.js
+[03-Jun-2025 08:30:50 UTC] getBasePath: http://localhost/full/
+[03-Jun-2025 08:30:50 UTC] API route NOT matched: GET /assets/index-Da_h3vxR.css
+[03-Jun-2025 08:30:50 UTC] getBasePath: http://localhost/full/
+[03-Jun-2025 08:30:50 UTC] API route NOT matched: GET /images/favicon.png
+[03-Jun-2025 08:30:50 UTC] getBasePath: http://localhost/full/
+[03-Jun-2025 08:30:50 UTC] API route NOT matched: GET /full/api/branches
+[03-Jun-2025 08:30:50 UTC] getBasePath: http://localhost/full/
+[03-Jun-2025 08:30:50 UTC] API route NOT matched: GET /full/api/reports/revenue/all
+[03-Jun-2025 08:30:50 UTC] getBasePath: http://localhost/full/
+[03-Jun-2025 08:30:50 UTC] API route NOT matched: GET /full/api/reports/rooms/all
+[03-Jun-2025 08:30:50 UTC] getBasePath: http://localhost/full/
+[03-Jun-2025 08:30:50 UTC] API route NOT matched: GET /full/api/reports/contracts/all
+[03-Jun-2025 08:30:50 UTC] getBasePath: http://localhost/full/
+[03-Jun-2025 08:30:50 UTC] API route NOT matched: GET /full/api/reports/utility-usage/all
+[03-Jun-2025 08:30:50 UTC] getBasePath: http://localhost/full/
+[03-Jun-2025 08:30:50 UTC] API route NOT matched: GET /full/api/maintenance-requests
+[03-Jun-2025 08:30:50 UTC] getBasePath: http://localhost/full/
+[03-Jun-2025 08:30:50 UTC] API route NOT matched: GET /full/api/tickets
+[03-Jun-2025 08:36:16 UTC] getBasePath: http://localhost/full/
+[03-Jun-2025 08:36:16 UTC] API route NOT matched: GET /
+[03-Jun-2025 08:36:16 UTC] getBasePath: http://localhost/full/
+[03-Jun-2025 08:36:16 UTC] API route NOT matched: GET /assets/index-DoZUYoYL.js
+[03-Jun-2025 08:36:16 UTC] getBasePath: http://localhost/full/
+[03-Jun-2025 08:36:16 UTC] API route NOT matched: GET /assets/index-Da_h3vxR.css
+[03-Jun-2025 08:36:16 UTC] getBasePath: http://localhost/full/
+[03-Jun-2025 08:36:16 UTC] API route NOT matched: GET /images/favicon.png
+[03-Jun-2025 08:36:17 UTC] getBasePath: http://localhost/full/
+[03-Jun-2025 08:36:17 UTC] API route NOT matched: GET /full/api/branches
+[03-Jun-2025 08:36:17 UTC] getBasePath: http://localhost/full/
+[03-Jun-2025 08:36:17 UTC] API route NOT matched: GET /full/api/reports/revenue/all
+[03-Jun-2025 08:36:17 UTC] getBasePath: http://localhost/full/
+[03-Jun-2025 08:36:17 UTC] API route NOT matched: GET /full/api/reports/rooms/all
+[03-Jun-2025 08:36:17 UTC] getBasePath: http://localhost/full/
+[03-Jun-2025 08:36:17 UTC] API route NOT matched: GET /full/api/reports/contracts/all
+[03-Jun-2025 08:36:17 UTC] getBasePath: http://localhost/full/
+[03-Jun-2025 08:36:17 UTC] API route NOT matched: GET /full/api/reports/utility-usage/all
+[03-Jun-2025 08:36:17 UTC] getBasePath: http://localhost/full/
+[03-Jun-2025 08:36:17 UTC] API route NOT matched: GET /full/api/maintenance-requests
+[03-Jun-2025 08:36:17 UTC] getBasePath: http://localhost/full/
+[03-Jun-2025 08:36:17 UTC] API route NOT matched: GET /full/api/tickets
+[03-Jun-2025 08:36:55 UTC] getBasePath: http://localhost/full/
+[03-Jun-2025 08:36:55 UTC] API route NOT matched: GET /123123
+[03-Jun-2025 08:36:55 UTC] getBasePath: http://localhost/full/
+[03-Jun-2025 08:36:55 UTC] API route NOT matched: GET /assets/index-DoZUYoYL.js
+[03-Jun-2025 08:36:55 UTC] getBasePath: http://localhost/full/
+[03-Jun-2025 08:36:55 UTC] API route NOT matched: GET /assets/index-Da_h3vxR.css
+[03-Jun-2025 08:36:56 UTC] getBasePath: http://localhost/full/
+[03-Jun-2025 08:36:56 UTC] API route NOT matched: GET /images/favicon.png
+[03-Jun-2025 08:36:56 UTC] getBasePath: http://localhost/full/
+[03-Jun-2025 08:36:56 UTC] API route matched: GET /api/branches
+[03-Jun-2025 08:36:56 UTC] PHP Warning:  file_put_contents(/var/www/html/full/core/../cache/rate_limit.json): Failed to open stream: Permission denied in /var/www/html/full/core/helpers.php on line 52
+[03-Jun-2025 08:36:56 UTC] getBasePath: http://localhost/full/
+[03-Jun-2025 08:36:56 UTC] API route matched: GET /api/reports/revenue/all
+[03-Jun-2025 08:36:56 UTC] PHP Warning:  file_put_contents(/var/www/html/full/core/../cache/rate_limit.json): Failed to open stream: Permission denied in /var/www/html/full/core/helpers.php on line 52
+[03-Jun-2025 08:36:56 UTC] User ID: 1, Role: admin
+[03-Jun-2025 08:36:56 UTC] getBasePath: http://localhost/full/
+[03-Jun-2025 08:36:56 UTC] API route matched: GET /api/reports/rooms/all
+[03-Jun-2025 08:36:56 UTC] PHP Warning:  file_put_contents(/var/www/html/full/core/../cache/rate_limit.json): Failed to open stream: Permission denied in /var/www/html/full/core/helpers.php on line 52
+[03-Jun-2025 08:36:56 UTC] getBasePath: http://localhost/full/
+[03-Jun-2025 08:36:56 UTC] API route matched: GET /api/reports/contracts/all
+[03-Jun-2025 08:36:56 UTC] PHP Warning:  file_put_contents(/var/www/html/full/core/../cache/rate_limit.json): Failed to open stream: Permission denied in /var/www/html/full/core/helpers.php on line 52
+[03-Jun-2025 08:36:56 UTC] getBasePath: http://localhost/full/
+[03-Jun-2025 08:36:56 UTC] API route matched: GET /api/reports/utility-usage/all
+[03-Jun-2025 08:36:56 UTC] PHP Warning:  file_put_contents(/var/www/html/full/core/../cache/rate_limit.json): Failed to open stream: Permission denied in /var/www/html/full/core/helpers.php on line 52
+[03-Jun-2025 08:36:56 UTC] getBasePath: http://localhost/full/
+[03-Jun-2025 08:36:56 UTC] API route matched: GET /api/maintenance-requests
+[03-Jun-2025 08:36:56 UTC] PHP Warning:  file_put_contents(/var/www/html/full/core/../cache/rate_limit.json): Failed to open stream: Permission denied in /var/www/html/full/core/helpers.php on line 52
+[03-Jun-2025 08:36:56 UTC] getBasePath: http://localhost/full/
+[03-Jun-2025 08:36:56 UTC] API route matched: GET /api/tickets
+[03-Jun-2025 08:36:56 UTC] PHP Warning:  file_put_contents(/var/www/html/full/core/../cache/rate_limit.json): Failed to open stream: Permission denied in /var/www/html/full/core/helpers.php on line 52
+[03-Jun-2025 08:42:25 UTC] getBasePath: http://localhost/full/
+[03-Jun-2025 08:42:25 UTC] API route matched: GET /api/branches
+[03-Jun-2025 08:42:25 UTC] PHP Warning:  file_put_contents(/var/www/html/full/core/../cache/rate_limit.json): Failed to open stream: Permission denied in /var/www/html/full/core/helpers.php on line 52
+[03-Jun-2025 08:42:25 UTC] User ID: 1, Role: admin
+[03-Jun-2025 08:48:03 UTC] getBasePath: http://localhost/full/
+[03-Jun-2025 08:48:03 UTC] API route matched: GET /api/branches
+[03-Jun-2025 08:48:03 UTC] PHP Warning:  file_put_contents(/var/www/html/full/core/../cache/rate_limit.json): Failed to open stream: Permission denied in /var/www/html/full/core/helpers.php on line 52
+[03-Jun-2025 08:48:03 UTC] User ID: 1, Role: admin
+[03-Jun-2025 08:49:17 UTC] getBasePath: http://localhost/full/
+[03-Jun-2025 08:49:17 UTC] API route NOT matched: GET /
+[03-Jun-2025 08:49:17 UTC] getBasePath: http://localhost/full/
+[03-Jun-2025 08:49:17 UTC] API route NOT matched: GET /assets/index-BKZ2C6_3.js
+[03-Jun-2025 08:49:17 UTC] getBasePath: http://localhost/full/
+[03-Jun-2025 08:49:17 UTC] API route NOT matched: GET /assets/index-Da_h3vxR.css
+[03-Jun-2025 08:49:17 UTC] getBasePath: http://localhost/full/
+[03-Jun-2025 08:49:17 UTC] API route NOT matched: GET /images/favicon.png
+[03-Jun-2025 08:49:21 UTC] getBasePath: http://localhost/full/
+[03-Jun-2025 08:49:21 UTC] API route NOT matched: GET /assets/404.lazy-BPsP4pYH.js
+[03-Jun-2025 08:49:21 UTC] getBasePath: http://localhost/full/
+[03-Jun-2025 08:49:21 UTC] API route NOT matched: GET /images/favicon.png
+[03-Jun-2025 08:49:28 UTC] getBasePath: http://localhost/full/
+[03-Jun-2025 08:49:28 UTC] API route NOT matched: GET /
+[03-Jun-2025 08:49:28 UTC] getBasePath: http://localhost/full/
+[03-Jun-2025 08:49:28 UTC] API route NOT matched: GET /assets/index-BKZ2C6_3.js
+[03-Jun-2025 08:49:28 UTC] getBasePath: http://localhost/full/
+[03-Jun-2025 08:49:28 UTC] API route NOT matched: GET /assets/index-Da_h3vxR.css
+[03-Jun-2025 08:49:28 UTC] getBasePath: http://localhost/full/
+[03-Jun-2025 08:49:28 UTC] API route NOT matched: GET /images/favicon.png
+[03-Jun-2025 08:49:28 UTC] getBasePath: http://localhost/full/
+[03-Jun-2025 08:49:28 UTC] API route NOT matched: GET /assets/index.lazy-D6U_HmZX.js
+[03-Jun-2025 08:49:28 UTC] getBasePath: http://localhost/full/
+[03-Jun-2025 08:49:28 UTC] API route NOT matched: GET /assets/debounce-DvVqF97N.js
+[03-Jun-2025 08:49:28 UTC] getBasePath: http://localhost/full/
+[03-Jun-2025 08:49:28 UTC] API route NOT matched: GET /assets/data-table-column-header-3vh6338f.js
+[03-Jun-2025 08:49:28 UTC] getBasePath: http://localhost/full/
+[03-Jun-2025 08:49:28 UTC] API route NOT matched: GET /assets/index-uv4-I6mX.js
+[03-Jun-2025 08:49:28 UTC] getBasePath: http://localhost/full/
+[03-Jun-2025 08:49:28 UTC] API route NOT matched: GET /assets/IconEdit-C7HrEkNC.js
+[03-Jun-2025 08:49:28 UTC] getBasePath: http://localhost/full/
+[03-Jun-2025 08:49:28 UTC] API route NOT matched: GET /assets/contracts-delete-dialog-D1kOh4X7.js
+[03-Jun-2025 08:49:28 UTC] getBasePath: http://localhost/full/
+[03-Jun-2025 08:49:28 UTC] API route NOT matched: GET /assets/IconPlus-DIczB70a.js
+[03-Jun-2025 08:49:28 UTC] getBasePath: http://localhost/full/
+[03-Jun-2025 08:49:28 UTC] API route NOT matched: GET /assets/alert-D68hAgNV.js
+[03-Jun-2025 08:49:28 UTC] getBasePath: http://localhost/full/
+[03-Jun-2025 08:49:28 UTC] getBasePath: http://localhost/full/
+[03-Jun-2025 08:49:28 UTC] API route NOT matched: GET /assets/schema-DD5eHhBD.js
+[03-Jun-2025 08:49:28 UTC] API route NOT matched: GET /assets/IconAlertTriangle-CqZDqMHK.js
+[03-Jun-2025 08:49:28 UTC] getBasePath: http://localhost/full/
+[03-Jun-2025 08:49:28 UTC] API route NOT matched: GET /assets/data-table-faceted-filter-CGrcRRpH.js
+[03-Jun-2025 08:49:29 UTC] getBasePath: http://localhost/full/
+[03-Jun-2025 08:49:29 UTC] API route matched: GET /api/contracts
+[03-Jun-2025 08:49:29 UTC] PHP Warning:  file_put_contents(/var/www/html/full/core/../cache/rate_limit.json): Failed to open stream: Permission denied in /var/www/html/full/core/helpers.php on line 52
+[03-Jun-2025 08:49:29 UTC] getBasePath: http://localhost/full/
+[03-Jun-2025 08:49:29 UTC] API route NOT matched: GET /images/favicon.png
+[03-Jun-2025 08:49:29 UTC] getBasePath: http://localhost/full/
+[03-Jun-2025 08:49:29 UTC] API route NOT matched: GET /assets/404.lazy-BPsP4pYH.js
+[03-Jun-2025 08:49:29 UTC] getBasePath: http://localhost/full/
+[03-Jun-2025 08:49:29 UTC] API route NOT matched: GET /images/favicon.png
+[03-Jun-2025 08:49:43 UTC] getBasePath: http://localhost/full/
+[03-Jun-2025 08:49:43 UTC] API route NOT matched: GET /contracts
+[03-Jun-2025 08:49:43 UTC] getBasePath: http://localhost/full/
+[03-Jun-2025 08:49:43 UTC] API route NOT matched: GET /assets/index-BKZ2C6_3.js
+[03-Jun-2025 08:49:43 UTC] getBasePath: http://localhost/full/
+[03-Jun-2025 08:49:43 UTC] API route NOT matched: GET /assets/index-Da_h3vxR.css
+[03-Jun-2025 08:49:43 UTC] getBasePath: http://localhost/full/
+[03-Jun-2025 08:49:43 UTC] API route NOT matched: GET /images/favicon.png
+[03-Jun-2025 08:49:44 UTC] getBasePath: http://localhost/full/
+[03-Jun-2025 08:49:44 UTC] API route matched: GET /api/reports/revenue/all
+[03-Jun-2025 08:49:44 UTC] PHP Warning:  file_put_contents(/var/www/html/full/core/../cache/rate_limit.json): Failed to open stream: Permission denied in /var/www/html/full/core/helpers.php on line 52
+[03-Jun-2025 08:49:44 UTC] getBasePath: http://localhost/full/
+[03-Jun-2025 08:49:44 UTC] API route matched: GET /api/branches
+[03-Jun-2025 08:49:44 UTC] PHP Warning:  file_put_contents(/var/www/html/full/core/../cache/rate_limit.json): Failed to open stream: Permission denied in /var/www/html/full/core/helpers.php on line 52
+[03-Jun-2025 08:49:44 UTC] User ID: 1, Role: admin
+[03-Jun-2025 08:49:44 UTC] getBasePath: http://localhost/full/
+[03-Jun-2025 08:49:44 UTC] API route matched: GET /api/reports/rooms/all
+[03-Jun-2025 08:49:44 UTC] PHP Warning:  file_put_contents(/var/www/html/full/core/../cache/rate_limit.json): Failed to open stream: Permission denied in /var/www/html/full/core/helpers.php on line 52
+[03-Jun-2025 08:49:44 UTC] getBasePath: http://localhost/full/
+[03-Jun-2025 08:49:44 UTC] API route matched: GET /api/reports/contracts/all
+[03-Jun-2025 08:49:44 UTC] PHP Warning:  file_put_contents(/var/www/html/full/core/../cache/rate_limit.json): Failed to open stream: Permission denied in /var/www/html/full/core/helpers.php on line 52
+[03-Jun-2025 08:49:44 UTC] getBasePath: http://localhost/full/
+[03-Jun-2025 08:49:44 UTC] API route matched: GET /api/reports/utility-usage/all
+[03-Jun-2025 08:49:44 UTC] PHP Warning:  file_put_contents(/var/www/html/full/core/../cache/rate_limit.json): Failed to open stream: Permission denied in /var/www/html/full/core/helpers.php on line 52
+[03-Jun-2025 08:49:44 UTC] getBasePath: http://localhost/full/
+[03-Jun-2025 08:49:44 UTC] API route matched: GET /api/maintenance-requests
+[03-Jun-2025 08:49:44 UTC] PHP Warning:  file_put_contents(/var/www/html/full/core/../cache/rate_limit.json): Failed to open stream: Permission denied in /var/www/html/full/core/helpers.php on line 52
+[03-Jun-2025 08:49:44 UTC] getBasePath: http://localhost/full/
+[03-Jun-2025 08:49:44 UTC] API route matched: GET /api/tickets
+[03-Jun-2025 08:49:44 UTC] PHP Warning:  file_put_contents(/var/www/html/full/core/../cache/rate_limit.json): Failed to open stream: Permission denied in /var/www/html/full/core/helpers.php on line 52
+[03-Jun-2025 08:54:08 UTC] getBasePath: http://localhost/full/
+[03-Jun-2025 08:54:08 UTC] API route NOT matched: GET /contracts
+[03-Jun-2025 08:54:08 UTC] getBasePath: http://localhost/full/
+[03-Jun-2025 08:54:08 UTC] API route NOT matched: GET /assets/index-BVc0xTk3.js
+[03-Jun-2025 08:54:08 UTC] getBasePath: http://localhost/full/
+[03-Jun-2025 08:54:08 UTC] API route NOT matched: GET /assets/index-Da_h3vxR.css
+[03-Jun-2025 08:54:08 UTC] getBasePath: http://localhost/full/
+[03-Jun-2025 08:54:08 UTC] API route NOT matched: GET /images/favicon.png
+[03-Jun-2025 08:54:09 UTC] getBasePath: http://localhost/full/
+[03-Jun-2025 08:54:09 UTC] API route matched: GET /api/reports/revenue/all
+[03-Jun-2025 08:54:09 UTC] getBasePath: http://localhost/full/
+[03-Jun-2025 08:54:09 UTC] API route matched: GET /api/branches
+[03-Jun-2025 08:54:09 UTC] PHP Warning:  file_put_contents(/var/www/html/full/core/../cache/rate_limit.json): Failed to open stream: Permission denied in /var/www/html/full/core/helpers.php on line 52
+[03-Jun-2025 08:54:09 UTC] PHP Warning:  file_put_contents(/var/www/html/full/core/../cache/rate_limit.json): Failed to open stream: Permission denied in /var/www/html/full/core/helpers.php on line 52
+[03-Jun-2025 08:54:09 UTC] User ID: 1, Role: admin
+[03-Jun-2025 08:54:09 UTC] getBasePath: http://localhost/full/
+[03-Jun-2025 08:54:09 UTC] API route matched: GET /api/reports/rooms/all
+[03-Jun-2025 08:54:09 UTC] PHP Warning:  file_put_contents(/var/www/html/full/core/../cache/rate_limit.json): Failed to open stream: Permission denied in /var/www/html/full/core/helpers.php on line 52
+[03-Jun-2025 08:54:09 UTC] getBasePath: http://localhost/full/
+[03-Jun-2025 08:54:09 UTC] API route matched: GET /api/reports/contracts/all
+[03-Jun-2025 08:54:09 UTC] PHP Warning:  file_put_contents(/var/www/html/full/core/../cache/rate_limit.json): Failed to open stream: Permission denied in /var/www/html/full/core/helpers.php on line 52
+[03-Jun-2025 08:54:09 UTC] getBasePath: http://localhost/full/
+[03-Jun-2025 08:54:09 UTC] API route matched: GET /api/reports/utility-usage/all
+[03-Jun-2025 08:54:09 UTC] PHP Warning:  file_put_contents(/var/www/html/full/core/../cache/rate_limit.json): Failed to open stream: Permission denied in /var/www/html/full/core/helpers.php on line 52
+[03-Jun-2025 08:54:09 UTC] getBasePath: http://localhost/full/
+[03-Jun-2025 08:54:09 UTC] API route matched: GET /api/maintenance-requests
+[03-Jun-2025 08:54:09 UTC] PHP Warning:  file_put_contents(/var/www/html/full/core/../cache/rate_limit.json): Failed to open stream: Permission denied in /var/www/html/full/core/helpers.php on line 52
+[03-Jun-2025 08:54:09 UTC] getBasePath: http://localhost/full/
+[03-Jun-2025 08:54:09 UTC] API route matched: GET /api/tickets
+[03-Jun-2025 08:54:09 UTC] PHP Warning:  file_put_contents(/var/www/html/full/core/../cache/rate_limit.json): Failed to open stream: Permission denied in /var/www/html/full/core/helpers.php on line 52
+[03-Jun-2025 08:54:13 UTC] getBasePath: http://localhost/full/
+[03-Jun-2025 08:54:13 UTC] API route NOT matched: GET /assets/index.lazy-CJ0gJKAv.js
+[03-Jun-2025 08:54:13 UTC] getBasePath: http://localhost/full/
+[03-Jun-2025 08:54:13 UTC] getBasePath: http://localhost/full/
+[03-Jun-2025 08:54:13 UTC] API route NOT matched: GET /assets/index-FnT8xIkk.js
+[03-Jun-2025 08:54:13 UTC] API route NOT matched: GET /assets/alert-rrIut-j4.js
+[03-Jun-2025 08:54:13 UTC] getBasePath: http://localhost/full/
+[03-Jun-2025 08:54:13 UTC] API route NOT matched: GET /assets/contracts-delete-dialog-DuUqlW69.js
+[03-Jun-2025 08:54:13 UTC] getBasePath: http://localhost/full/
+[03-Jun-2025 08:54:13 UTC] API route NOT matched: GET /assets/IconPlus-p8JQPIW_.js
+[03-Jun-2025 08:54:13 UTC] getBasePath: http://localhost/full/
+[03-Jun-2025 08:54:13 UTC] API route NOT matched: GET /assets/IconAlertTriangle-PFCrM6qy.js
+[03-Jun-2025 08:54:13 UTC] getBasePath: http://localhost/full/
+[03-Jun-2025 08:54:13 UTC] API route NOT matched: GET /assets/schema-BIrNANt_.js
+[03-Jun-2025 08:54:13 UTC] getBasePath: http://localhost/full/
+[03-Jun-2025 08:54:13 UTC] API route NOT matched: GET /assets/schema-BLRC5kJ6.js
+[03-Jun-2025 08:54:13 UTC] getBasePath: http://localhost/full/
+[03-Jun-2025 08:54:13 UTC] getBasePath: http://localhost/full/
+[03-Jun-2025 08:54:13 UTC] API route NOT matched: GET /assets/index.lazy-B9vYgLJA.js
+[03-Jun-2025 08:54:13 UTC] API route NOT matched: GET /assets/debounce-O8pSKiyH.js
+[03-Jun-2025 08:54:13 UTC] getBasePath: http://localhost/full/
+[03-Jun-2025 08:54:13 UTC] API route NOT matched: GET /assets/IconEdit-CCdQPeG5.js
+[03-Jun-2025 08:54:13 UTC] getBasePath: http://localhost/full/
+[03-Jun-2025 08:54:13 UTC] API route NOT matched: GET /assets/data-table-column-header-BnuI182k.js
+[03-Jun-2025 08:54:13 UTC] getBasePath: http://localhost/full/
+[03-Jun-2025 08:54:13 UTC] API route NOT matched: GET /assets/IconUserPlus-DvuVSCPu.js
+[03-Jun-2025 08:54:13 UTC] getBasePath: http://localhost/full/
+[03-Jun-2025 08:54:13 UTC] getBasePath: http://localhost/full/
+[03-Jun-2025 08:54:13 UTC] API route NOT matched: GET /assets/select-dropdown-0bcpXwrZ.js
+[03-Jun-2025 08:54:13 UTC] API route NOT matched: GET /assets/index.lazy-BW3_eF9d.js
+[03-Jun-2025 08:54:13 UTC] getBasePath: http://localhost/full/
+[03-Jun-2025 08:54:13 UTC] API route NOT matched: GET /assets/data-table-faceted-filter-rI2uRf22.js
+[03-Jun-2025 08:54:13 UTC] getBasePath: http://localhost/full/
+[03-Jun-2025 08:54:13 UTC] API route NOT matched: GET /contracts/images/favicon.png
+[03-Jun-2025 08:54:13 UTC] getBasePath: http://localhost/full/
+[03-Jun-2025 08:54:13 UTC] API route NOT matched: GET /contracts/images/favicon.svg
+[03-Jun-2025 08:54:15 UTC] getBasePath: http://localhost/full/
+[03-Jun-2025 08:54:15 UTC] API route matched: GET /api/users
+[03-Jun-2025 08:54:15 UTC] PHP Warning:  file_put_contents(/var/www/html/full/core/../cache/rate_limit.json): Failed to open stream: Permission denied in /var/www/html/full/core/helpers.php on line 52
+[03-Jun-2025 08:54:15 UTC] getBasePath: http://localhost/full/
+[03-Jun-2025 08:54:15 UTC] API route NOT matched: GET /contracts/images/favicon.png
+[03-Jun-2025 08:54:15 UTC] getBasePath: http://localhost/full/
+[03-Jun-2025 08:54:15 UTC] API route NOT matched: GET /contracts/images/favicon.svg
+[03-Jun-2025 08:54:17 UTC] getBasePath: http://localhost/full/
+[03-Jun-2025 08:54:17 UTC] API route matched: GET /api/reports/revenue/all
+[03-Jun-2025 08:54:17 UTC] PHP Warning:  file_put_contents(/var/www/html/full/core/../cache/rate_limit.json): Failed to open stream: Permission denied in /var/www/html/full/core/helpers.php on line 52
+[03-Jun-2025 08:54:17 UTC] getBasePath: http://localhost/full/
+[03-Jun-2025 08:54:17 UTC] API route NOT matched: GET /contracts/images/favicon.png
+[03-Jun-2025 08:54:17 UTC] getBasePath: http://localhost/full/
+[03-Jun-2025 08:54:17 UTC] API route matched: GET /api/reports/rooms/all
+[03-Jun-2025 08:54:17 UTC] PHP Warning:  file_put_contents(/var/www/html/full/core/../cache/rate_limit.json): Failed to open stream: Permission denied in /var/www/html/full/core/helpers.php on line 52
+[03-Jun-2025 08:54:17 UTC] getBasePath: http://localhost/full/
+[03-Jun-2025 08:54:17 UTC] API route NOT matched: GET /contracts/images/favicon.svg
+[03-Jun-2025 08:54:17 UTC] getBasePath: http://localhost/full/
+[03-Jun-2025 08:54:17 UTC] API route matched: GET /api/reports/contracts/all
+[03-Jun-2025 08:54:17 UTC] PHP Warning:  file_put_contents(/var/www/html/full/core/../cache/rate_limit.json): Failed to open stream: Permission denied in /var/www/html/full/core/helpers.php on line 52
+[03-Jun-2025 08:54:17 UTC] getBasePath: http://localhost/full/
+[03-Jun-2025 08:54:17 UTC] API route matched: GET /api/reports/utility-usage/all
+[03-Jun-2025 08:54:17 UTC] PHP Warning:  file_put_contents(/var/www/html/full/core/../cache/rate_limit.json): Failed to open stream: Permission denied in /var/www/html/full/core/helpers.php on line 52
+[03-Jun-2025 08:54:17 UTC] getBasePath: http://localhost/full/
+[03-Jun-2025 08:54:17 UTC] API route matched: GET /api/maintenance-requests
+[03-Jun-2025 08:54:17 UTC] PHP Warning:  file_put_contents(/var/www/html/full/core/../cache/rate_limit.json): Failed to open stream: Permission denied in /var/www/html/full/core/helpers.php on line 52
+[03-Jun-2025 08:54:17 UTC] getBasePath: http://localhost/full/
+[03-Jun-2025 08:54:17 UTC] API route matched: GET /api/tickets
+[03-Jun-2025 08:54:17 UTC] PHP Warning:  file_put_contents(/var/www/html/full/core/../cache/rate_limit.json): Failed to open stream: Permission denied in /var/www/html/full/core/helpers.php on line 52
+[03-Jun-2025 08:54:23 UTC] getBasePath: http://localhost/full/
+[03-Jun-2025 08:54:23 UTC] API route NOT matched: GET /contracts/images/favicon.png
+[03-Jun-2025 08:54:23 UTC] getBasePath: http://localhost/full/
+[03-Jun-2025 08:54:23 UTC] API route NOT matched: GET /contracts/images/favicon.svg
+[03-Jun-2025 08:54:24 UTC] getBasePath: http://localhost/full/
+[03-Jun-2025 08:54:24 UTC] API route matched: GET /api/branches
+[03-Jun-2025 08:54:24 UTC] PHP Warning:  file_put_contents(/var/www/html/full/core/../cache/rate_limit.json): Failed to open stream: Permission denied in /var/www/html/full/core/helpers.php on line 52
+[03-Jun-2025 08:54:24 UTC] User ID: 1, Role: admin
+[03-Jun-2025 08:54:24 UTC] getBasePath: http://localhost/full/
+[03-Jun-2025 08:54:24 UTC] API route NOT matched: GET /contracts/images/favicon.png
+[03-Jun-2025 08:54:24 UTC] getBasePath: http://localhost/full/
+[03-Jun-2025 08:54:24 UTC] API route NOT matched: GET /contracts/images/favicon.svg
+[03-Jun-2025 08:54:27 UTC] getBasePath: http://localhost/full/
+[03-Jun-2025 08:54:27 UTC] API route NOT matched: GET /
+[03-Jun-2025 08:54:27 UTC] getBasePath: http://localhost/full/
+[03-Jun-2025 08:54:27 UTC] API route NOT matched: GET /assets/index-BVc0xTk3.js
+[03-Jun-2025 08:54:27 UTC] getBasePath: http://localhost/full/
+[03-Jun-2025 08:54:27 UTC] API route NOT matched: GET /assets/index-Da_h3vxR.css
+[03-Jun-2025 08:54:27 UTC] getBasePath: http://localhost/full/
+[03-Jun-2025 08:54:27 UTC] API route NOT matched: GET /images/favicon.png
+[03-Jun-2025 08:54:28 UTC] getBasePath: http://localhost/full/
+[03-Jun-2025 08:54:28 UTC] API route matched: GET /api/branches
+[03-Jun-2025 08:54:28 UTC] getBasePath: http://localhost/full/
+[03-Jun-2025 08:54:28 UTC] API route matched: GET /api/reports/revenue/all
+[03-Jun-2025 08:54:28 UTC] PHP Warning:  file_put_contents(/var/www/html/full/core/../cache/rate_limit.json): Failed to open stream: Permission denied in /var/www/html/full/core/helpers.php on line 52
+[03-Jun-2025 08:54:28 UTC] PHP Warning:  file_put_contents(/var/www/html/full/core/../cache/rate_limit.json): Failed to open stream: Permission denied in /var/www/html/full/core/helpers.php on line 52
+[03-Jun-2025 08:54:28 UTC] User ID: 1, Role: admin
+[03-Jun-2025 08:54:28 UTC] getBasePath: http://localhost/full/
+[03-Jun-2025 08:54:28 UTC] API route matched: GET /api/reports/rooms/all
+[03-Jun-2025 08:54:28 UTC] PHP Warning:  file_put_contents(/var/www/html/full/core/../cache/rate_limit.json): Failed to open stream: Permission denied in /var/www/html/full/core/helpers.php on line 52
+[03-Jun-2025 08:54:28 UTC] getBasePath: http://localhost/full/
+[03-Jun-2025 08:54:28 UTC] API route matched: GET /api/reports/contracts/all
+[03-Jun-2025 08:54:28 UTC] PHP Warning:  file_put_contents(/var/www/html/full/core/../cache/rate_limit.json): Failed to open stream: Permission denied in /var/www/html/full/core/helpers.php on line 52
+[03-Jun-2025 08:54:28 UTC] getBasePath: http://localhost/full/
+[03-Jun-2025 08:54:28 UTC] API route matched: GET /api/reports/utility-usage/all
+[03-Jun-2025 08:54:28 UTC] PHP Warning:  file_put_contents(/var/www/html/full/core/../cache/rate_limit.json): Failed to open stream: Permission denied in /var/www/html/full/core/helpers.php on line 52
+[03-Jun-2025 08:54:28 UTC] getBasePath: http://localhost/full/
+[03-Jun-2025 08:54:28 UTC] API route matched: GET /api/maintenance-requests
+[03-Jun-2025 08:54:28 UTC] PHP Warning:  file_put_contents(/var/www/html/full/core/../cache/rate_limit.json): Failed to open stream: Permission denied in /var/www/html/full/core/helpers.php on line 52
+[03-Jun-2025 08:54:28 UTC] getBasePath: http://localhost/full/
+[03-Jun-2025 08:54:28 UTC] API route matched: GET /api/tickets
+[03-Jun-2025 08:54:28 UTC] PHP Warning:  file_put_contents(/var/www/html/full/core/../cache/rate_limit.json): Failed to open stream: Permission denied in /var/www/html/full/core/helpers.php on line 52
+[03-Jun-2025 08:54:29 UTC] getBasePath: http://localhost/full/
+[03-Jun-2025 08:54:29 UTC] API route NOT matched: GET /assets/index.lazy-BW3_eF9d.js
+[03-Jun-2025 08:54:29 UTC] getBasePath: http://localhost/full/
+[03-Jun-2025 08:54:29 UTC] API route NOT matched: GET /assets/debounce-O8pSKiyH.js
+[03-Jun-2025 08:54:29 UTC] getBasePath: http://localhost/full/
+[03-Jun-2025 08:54:29 UTC] API route NOT matched: GET /assets/data-table-column-header-BnuI182k.js
+[03-Jun-2025 08:54:29 UTC] getBasePath: http://localhost/full/
+[03-Jun-2025 08:54:29 UTC] API route NOT matched: GET /assets/index-FnT8xIkk.js
+[03-Jun-2025 08:54:29 UTC] getBasePath: http://localhost/full/
+[03-Jun-2025 08:54:29 UTC] API route NOT matched: GET /assets/IconEdit-CCdQPeG5.js
+[03-Jun-2025 08:54:29 UTC] getBasePath: http://localhost/full/
+[03-Jun-2025 08:54:29 UTC] API route NOT matched: GET /assets/select-dropdown-0bcpXwrZ.js
+[03-Jun-2025 08:54:29 UTC] getBasePath: http://localhost/full/
+[03-Jun-2025 08:54:29 UTC] API route NOT matched: GET /assets/alert-rrIut-j4.js
+[03-Jun-2025 08:54:29 UTC] getBasePath: http://localhost/full/
+[03-Jun-2025 08:54:29 UTC] API route NOT matched: GET /assets/IconUserPlus-DvuVSCPu.js
+[03-Jun-2025 08:54:29 UTC] getBasePath: http://localhost/full/
+[03-Jun-2025 08:54:29 UTC] API route NOT matched: GET /assets/data-table-faceted-filter-rI2uRf22.js
+[03-Jun-2025 08:54:29 UTC] getBasePath: http://localhost/full/
+[03-Jun-2025 08:54:29 UTC] API route NOT matched: GET /assets/IconAlertTriangle-PFCrM6qy.js
+[03-Jun-2025 08:54:29 UTC] getBasePath: http://localhost/full/
+[03-Jun-2025 08:54:29 UTC] API route matched: GET /api/users
+[03-Jun-2025 08:54:29 UTC] PHP Warning:  file_put_contents(/var/www/html/full/core/../cache/rate_limit.json): Failed to open stream: Permission denied in /var/www/html/full/core/helpers.php on line 52
+[03-Jun-2025 08:54:29 UTC] getBasePath: http://localhost/full/
+[03-Jun-2025 08:54:29 UTC] API route NOT matched: GET /images/favicon.png
+[03-Jun-2025 08:54:30 UTC] getBasePath: http://localhost/full/
+[03-Jun-2025 08:54:30 UTC] API route NOT matched: GET /assets/contracts-delete-dialog-DuUqlW69.js
+[03-Jun-2025 08:54:30 UTC] getBasePath: http://localhost/full/
+[03-Jun-2025 08:54:30 UTC] API route NOT matched: GET /assets/index.lazy-CJ0gJKAv.js
+[03-Jun-2025 08:54:30 UTC] getBasePath: http://localhost/full/
+[03-Jun-2025 08:54:30 UTC] API route NOT matched: GET /assets/IconPlus-p8JQPIW_.js
+[03-Jun-2025 08:54:30 UTC] getBasePath: http://localhost/full/
+[03-Jun-2025 08:54:30 UTC] API route NOT matched: GET /assets/schema-BIrNANt_.js
+[03-Jun-2025 08:54:30 UTC] getBasePath: http://localhost/full/
+[03-Jun-2025 08:54:30 UTC] API route NOT matched: GET /assets/schema-BLRC5kJ6.js
+[03-Jun-2025 08:54:30 UTC] getBasePath: http://localhost/full/
+[03-Jun-2025 08:54:30 UTC] API route matched: GET /api/rooms
+[03-Jun-2025 08:54:30 UTC] PHP Warning:  file_put_contents(/var/www/html/full/core/../cache/rate_limit.json): Failed to open stream: Permission denied in /var/www/html/full/core/helpers.php on line 52
+[03-Jun-2025 08:54:30 UTC] getBasePath: http://localhost/full/
+[03-Jun-2025 08:54:30 UTC] API route NOT matched: GET /images/favicon.png
+[03-Jun-2025 08:54:30 UTC] getBasePath: http://localhost/full/
+[03-Jun-2025 08:54:30 UTC] API route NOT matched: GET /assets/index.lazy-B9vYgLJA.js
+[03-Jun-2025 08:54:34 UTC] getBasePath: http://localhost/full/
+[03-Jun-2025 08:54:34 UTC] API route NOT matched: GET /
+[03-Jun-2025 08:54:34 UTC] getBasePath: http://localhost/full/
+[03-Jun-2025 08:54:34 UTC] getBasePath: http://localhost/full/
+[03-Jun-2025 08:54:34 UTC] API route NOT matched: GET /assets/index-BVc0xTk3.js
+[03-Jun-2025 08:54:34 UTC] API route NOT matched: GET /assets/index-Da_h3vxR.css
+[03-Jun-2025 08:54:34 UTC] getBasePath: http://localhost/full/
+[03-Jun-2025 08:54:34 UTC] API route NOT matched: GET /images/favicon.png
+[03-Jun-2025 08:54:35 UTC] getBasePath: http://localhost/full/
+[03-Jun-2025 08:54:35 UTC] getBasePath: http://localhost/full/
+[03-Jun-2025 08:54:35 UTC] API route matched: GET /api/branches
+[03-Jun-2025 08:54:35 UTC] API route matched: GET /api/reports/revenue/all
+[03-Jun-2025 08:54:35 UTC] PHP Warning:  file_put_contents(/var/www/html/full/core/../cache/rate_limit.json): Failed to open stream: Permission denied in /var/www/html/full/core/helpers.php on line 52
+[03-Jun-2025 08:54:35 UTC] PHP Warning:  file_put_contents(/var/www/html/full/core/../cache/rate_limit.json): Failed to open stream: Permission denied in /var/www/html/full/core/helpers.php on line 52
+[03-Jun-2025 08:54:35 UTC] User ID: 1, Role: admin
+[03-Jun-2025 08:54:35 UTC] getBasePath: http://localhost/full/
+[03-Jun-2025 08:54:35 UTC] API route matched: GET /api/reports/rooms/all
+[03-Jun-2025 08:54:35 UTC] PHP Warning:  file_put_contents(/var/www/html/full/core/../cache/rate_limit.json): Failed to open stream: Permission denied in /var/www/html/full/core/helpers.php on line 52
+[03-Jun-2025 08:54:35 UTC] getBasePath: http://localhost/full/
+[03-Jun-2025 08:54:35 UTC] API route matched: GET /api/reports/contracts/all
+[03-Jun-2025 08:54:35 UTC] PHP Warning:  file_put_contents(/var/www/html/full/core/../cache/rate_limit.json): Failed to open stream: Permission denied in /var/www/html/full/core/helpers.php on line 52
+[03-Jun-2025 08:54:35 UTC] getBasePath: http://localhost/full/
+[03-Jun-2025 08:54:35 UTC] API route matched: GET /api/reports/utility-usage/all
+[03-Jun-2025 08:54:35 UTC] PHP Warning:  file_put_contents(/var/www/html/full/core/../cache/rate_limit.json): Failed to open stream: Permission denied in /var/www/html/full/core/helpers.php on line 52
+[03-Jun-2025 08:54:35 UTC] getBasePath: http://localhost/full/
+[03-Jun-2025 08:54:35 UTC] API route matched: GET /api/maintenance-requests
+[03-Jun-2025 08:54:35 UTC] PHP Warning:  file_put_contents(/var/www/html/full/core/../cache/rate_limit.json): Failed to open stream: Permission denied in /var/www/html/full/core/helpers.php on line 52
+[03-Jun-2025 08:54:35 UTC] getBasePath: http://localhost/full/
+[03-Jun-2025 08:54:35 UTC] API route matched: GET /api/tickets
+[03-Jun-2025 08:54:35 UTC] PHP Warning:  file_put_contents(/var/www/html/full/core/../cache/rate_limit.json): Failed to open stream: Permission denied in /var/www/html/full/core/helpers.php on line 52
+[03-Jun-2025 08:54:37 UTC] getBasePath: http://localhost/full/
+[03-Jun-2025 08:54:37 UTC] API route matched: POST /api/logout
+[03-Jun-2025 08:54:37 UTC] PHP Warning:  file_put_contents(/var/www/html/full/core/../cache/rate_limit.json): Failed to open stream: Permission denied in /var/www/html/full/core/helpers.php on line 52
+[03-Jun-2025 08:54:37 UTC] getBasePath: http://localhost/full/
+[03-Jun-2025 08:54:37 UTC] API route matched: GET /api/reports/customer/0/contracts
+[03-Jun-2025 08:54:37 UTC] PHP Warning:  file_put_contents(/var/www/html/full/core/../cache/rate_limit.json): Failed to open stream: Permission denied in /var/www/html/full/core/helpers.php on line 52
+[03-Jun-2025 08:54:37 UTC] getBasePath: http://localhost/full/
+[03-Jun-2025 08:54:37 UTC] API route NOT matched: GET /images/favicon.png
+[03-Jun-2025 08:54:37 UTC] getBasePath: http://localhost/full/
+[03-Jun-2025 08:54:37 UTC] API route NOT matched: GET /images/favicon.png
+[03-Jun-2025 08:54:47 UTC] getBasePath: http://localhost/full/
+[03-Jun-2025 08:54:47 UTC] API route matched: POST /api/login
+[03-Jun-2025 08:54:47 UTC] PHP Warning:  file_put_contents(/var/www/html/full/core/../cache/rate_limit.json): Failed to open stream: Permission denied in /var/www/html/full/core/helpers.php on line 52
+[03-Jun-2025 08:54:47 UTC] getBasePath: http://localhost/full/
+[03-Jun-2025 08:54:47 UTC] API route matched: GET /api/reports/revenue/all
+[03-Jun-2025 08:54:47 UTC] PHP Warning:  file_put_contents(/var/www/html/full/core/../cache/rate_limit.json): Failed to open stream: Permission denied in /var/www/html/full/core/helpers.php on line 52
+[03-Jun-2025 08:54:47 UTC] getBasePath: http://localhost/full/
+[03-Jun-2025 08:54:47 UTC] API route NOT matched: GET /images/favicon.png
+[03-Jun-2025 08:54:47 UTC] getBasePath: http://localhost/full/
+[03-Jun-2025 08:54:47 UTC] API route matched: GET /api/reports/rooms/all
+[03-Jun-2025 08:54:47 UTC] PHP Warning:  file_put_contents(/var/www/html/full/core/../cache/rate_limit.json): Failed to open stream: Permission denied in /var/www/html/full/core/helpers.php on line 52
+[03-Jun-2025 08:54:47 UTC] getBasePath: http://localhost/full/
+[03-Jun-2025 08:54:47 UTC] API route matched: GET /api/reports/contracts/all
+[03-Jun-2025 08:54:47 UTC] PHP Warning:  file_put_contents(/var/www/html/full/core/../cache/rate_limit.json): Failed to open stream: Permission denied in /var/www/html/full/core/helpers.php on line 52
+[03-Jun-2025 08:54:47 UTC] getBasePath: http://localhost/full/
+[03-Jun-2025 08:54:47 UTC] API route matched: GET /api/reports/utility-usage/all
+[03-Jun-2025 08:54:47 UTC] PHP Warning:  file_put_contents(/var/www/html/full/core/../cache/rate_limit.json): Failed to open stream: Permission denied in /var/www/html/full/core/helpers.php on line 52
+[03-Jun-2025 08:54:47 UTC] getBasePath: http://localhost/full/
+[03-Jun-2025 08:54:47 UTC] API route matched: GET /api/maintenance-requests
+[03-Jun-2025 08:54:47 UTC] PHP Warning:  file_put_contents(/var/www/html/full/core/../cache/rate_limit.json): Failed to open stream: Permission denied in /var/www/html/full/core/helpers.php on line 52
+[03-Jun-2025 08:54:47 UTC] getBasePath: http://localhost/full/
+[03-Jun-2025 08:54:47 UTC] API route matched: GET /api/tickets
+[03-Jun-2025 08:54:47 UTC] PHP Warning:  file_put_contents(/var/www/html/full/core/../cache/rate_limit.json): Failed to open stream: Permission denied in /var/www/html/full/core/helpers.php on line 52
+[03-Jun-2025 08:54:57 UTC] getBasePath: http://localhost/full/
+[03-Jun-2025 08:54:57 UTC] API route NOT matched: GET /assets/index.lazy-BW3_eF9d.js
+[03-Jun-2025 08:54:57 UTC] getBasePath: http://localhost/full/
+[03-Jun-2025 08:54:57 UTC] API route NOT matched: GET /assets/debounce-O8pSKiyH.js
+[03-Jun-2025 08:54:57 UTC] getBasePath: http://localhost/full/
+[03-Jun-2025 08:54:57 UTC] API route NOT matched: GET /assets/data-table-column-header-BnuI182k.js
+[03-Jun-2025 08:54:57 UTC] getBasePath: http://localhost/full/
+[03-Jun-2025 08:54:57 UTC] getBasePath: http://localhost/full/
+[03-Jun-2025 08:54:57 UTC] API route NOT matched: GET /assets/IconEdit-CCdQPeG5.js
+[03-Jun-2025 08:54:57 UTC] API route NOT matched: GET /assets/index-FnT8xIkk.js
+[03-Jun-2025 08:54:57 UTC] getBasePath: http://localhost/full/
+[03-Jun-2025 08:54:57 UTC] API route NOT matched: GET /assets/select-dropdown-0bcpXwrZ.js
+[03-Jun-2025 08:54:57 UTC] getBasePath: http://localhost/full/
+[03-Jun-2025 08:54:57 UTC] getBasePath: http://localhost/full/
+[03-Jun-2025 08:54:57 UTC] API route NOT matched: GET /assets/IconAlertTriangle-PFCrM6qy.js
+[03-Jun-2025 08:54:57 UTC] API route NOT matched: GET /assets/alert-rrIut-j4.js
+[03-Jun-2025 08:54:57 UTC] getBasePath: http://localhost/full/
+[03-Jun-2025 08:54:57 UTC] API route NOT matched: GET /assets/IconUserPlus-DvuVSCPu.js
+[03-Jun-2025 08:54:57 UTC] getBasePath: http://localhost/full/
+[03-Jun-2025 08:54:57 UTC] API route NOT matched: GET /assets/data-table-faceted-filter-rI2uRf22.js
+[03-Jun-2025 08:54:57 UTC] getBasePath: http://localhost/full/
+[03-Jun-2025 08:54:57 UTC] API route matched: GET /api/users
+[03-Jun-2025 08:54:57 UTC] PHP Warning:  file_put_contents(/var/www/html/full/core/../cache/rate_limit.json): Failed to open stream: Permission denied in /var/www/html/full/core/helpers.php on line 52
+[03-Jun-2025 08:54:57 UTC] getBasePath: http://localhost/full/
+[03-Jun-2025 08:54:57 UTC] API route NOT matched: GET /images/favicon.png
+[03-Jun-2025 08:54:58 UTC] getBasePath: http://localhost/full/
+[03-Jun-2025 08:54:58 UTC] API route matched: GET /api/reports/revenue/all
+[03-Jun-2025 08:54:58 UTC] PHP Warning:  file_put_contents(/var/www/html/full/core/../cache/rate_limit.json): Failed to open stream: Permission denied in /var/www/html/full/core/helpers.php on line 52
+[03-Jun-2025 08:54:58 UTC] getBasePath: http://localhost/full/
+[03-Jun-2025 08:54:58 UTC] API route NOT matched: GET /images/favicon.png
+[03-Jun-2025 08:54:58 UTC] getBasePath: http://localhost/full/
+[03-Jun-2025 08:54:58 UTC] API route matched: GET /api/reports/rooms/all
+[03-Jun-2025 08:54:58 UTC] PHP Warning:  file_put_contents(/var/www/html/full/core/../cache/rate_limit.json): Failed to open stream: Permission denied in /var/www/html/full/core/helpers.php on line 52
+[03-Jun-2025 08:54:58 UTC] getBasePath: http://localhost/full/
+[03-Jun-2025 08:54:58 UTC] API route matched: GET /api/reports/contracts/all
+[03-Jun-2025 08:54:58 UTC] PHP Warning:  file_put_contents(/var/www/html/full/core/../cache/rate_limit.json): Failed to open stream: Permission denied in /var/www/html/full/core/helpers.php on line 52
+[03-Jun-2025 08:54:58 UTC] getBasePath: http://localhost/full/
+[03-Jun-2025 08:54:58 UTC] API route matched: GET /api/reports/utility-usage/all
+[03-Jun-2025 08:54:58 UTC] PHP Warning:  file_put_contents(/var/www/html/full/core/../cache/rate_limit.json): Failed to open stream: Permission denied in /var/www/html/full/core/helpers.php on line 52
+[03-Jun-2025 08:54:58 UTC] getBasePath: http://localhost/full/
+[03-Jun-2025 08:54:58 UTC] API route matched: GET /api/maintenance-requests
+[03-Jun-2025 08:54:58 UTC] PHP Warning:  file_put_contents(/var/www/html/full/core/../cache/rate_limit.json): Failed to open stream: Permission denied in /var/www/html/full/core/helpers.php on line 52
+[03-Jun-2025 08:54:58 UTC] getBasePath: http://localhost/full/
+[03-Jun-2025 08:54:58 UTC] API route matched: GET /api/tickets
+[03-Jun-2025 08:54:58 UTC] PHP Warning:  file_put_contents(/var/www/html/full/core/../cache/rate_limit.json): Failed to open stream: Permission denied in /var/www/html/full/core/helpers.php on line 52
+[03-Jun-2025 08:54:59 UTC] getBasePath: http://localhost/full/
+[03-Jun-2025 08:54:59 UTC] getBasePath: http://localhost/full/
+[03-Jun-2025 08:54:59 UTC] API route NOT matched: GET /assets/index.lazy-B9vYgLJA.js
+[03-Jun-2025 08:54:59 UTC] API route NOT matched: GET /assets/schema-BLRC5kJ6.js
+[03-Jun-2025 08:54:59 UTC] getBasePath: http://localhost/full/
+[03-Jun-2025 08:54:59 UTC] API route NOT matched: GET /assets/schema-BIrNANt_.js
+[03-Jun-2025 08:55:05 UTC] getBasePath: http://localhost/full/
+[03-Jun-2025 08:55:05 UTC] getBasePath: http://localhost/full/
+[03-Jun-2025 08:55:05 UTC] API route NOT matched: GET /assets/contracts-delete-dialog-DuUqlW69.js
+[03-Jun-2025 08:55:05 UTC] API route NOT matched: GET /assets/index.lazy-QPldTJWR.js
+[03-Jun-2025 08:55:05 UTC] getBasePath: http://localhost/full/
+[03-Jun-2025 08:55:05 UTC] API route NOT matched: GET /assets/IconPlus-p8JQPIW_.js
+[03-Jun-2025 08:55:06 UTC] getBasePath: http://localhost/full/
+[03-Jun-2025 08:55:06 UTC] API route matched: GET /api/contracts
+[03-Jun-2025 08:55:06 UTC] PHP Warning:  file_put_contents(/var/www/html/full/core/../cache/rate_limit.json): Failed to open stream: Permission denied in /var/www/html/full/core/helpers.php on line 52
+[03-Jun-2025 08:55:06 UTC] getBasePath: http://localhost/full/
+[03-Jun-2025 08:55:06 UTC] API route NOT matched: GET /images/favicon.png
+[03-Jun-2025 08:55:07 UTC] getBasePath: http://localhost/full/
+[03-Jun-2025 08:55:07 UTC] getBasePath: http://localhost/full/
+[03-Jun-2025 08:55:07 UTC] API route NOT matched: GET /assets/index.lazy-CSN2QNKi.js
+[03-Jun-2025 08:55:07 UTC] API route NOT matched: GET /assets/textarea-qbEUqSPM.js
+[03-Jun-2025 08:55:09 UTC] getBasePath: http://localhost/full/
+[03-Jun-2025 08:55:09 UTC] API route NOT matched: GET /images/favicon.png
+[03-Jun-2025 08:55:10 UTC] getBasePath: http://localhost/full/
+[03-Jun-2025 08:55:10 UTC] API route NOT matched: GET /assets/index.lazy-CJ0gJKAv.js
+[03-Jun-2025 08:55:10 UTC] getBasePath: http://localhost/full/
+[03-Jun-2025 08:55:10 UTC] API route matched: GET /api/tickets
+[03-Jun-2025 08:55:10 UTC] PHP Warning:  file_put_contents(/var/www/html/full/core/../cache/rate_limit.json): Failed to open stream: Permission denied in /var/www/html/full/core/helpers.php on line 52
+[03-Jun-2025 08:55:10 UTC] getBasePath: http://localhost/full/
+[03-Jun-2025 08:55:10 UTC] API route NOT matched: GET /images/favicon.png
+[03-Jun-2025 08:55:10 UTC] getBasePath: http://localhost/full/
+[03-Jun-2025 08:55:10 UTC] API route matched: GET /api/branches
+[03-Jun-2025 08:55:10 UTC] PHP Warning:  file_put_contents(/var/www/html/full/core/../cache/rate_limit.json): Failed to open stream: Permission denied in /var/www/html/full/core/helpers.php on line 52
+[03-Jun-2025 08:55:10 UTC] User ID: 1, Role: admin
+[03-Jun-2025 08:55:11 UTC] getBasePath: http://localhost/full/
+[03-Jun-2025 08:55:11 UTC] API route NOT matched: GET /assets/index.lazy-D-ZopLOs.js
+[03-Jun-2025 08:55:11 UTC] getBasePath: http://localhost/full/
+[03-Jun-2025 08:55:11 UTC] API route matched: GET /api/maintenance-requests
+[03-Jun-2025 08:55:11 UTC] PHP Warning:  file_put_contents(/var/www/html/full/core/../cache/rate_limit.json): Failed to open stream: Permission denied in /var/www/html/full/core/helpers.php on line 52
+[03-Jun-2025 08:55:11 UTC] getBasePath: http://localhost/full/
+[03-Jun-2025 08:55:11 UTC] API route NOT matched: GET /images/favicon.png
+[03-Jun-2025 08:55:14 UTC] getBasePath: http://localhost/full/
+[03-Jun-2025 08:55:14 UTC] API route matched: GET /api/reports/revenue/all
+[03-Jun-2025 08:55:14 UTC] PHP Warning:  file_put_contents(/var/www/html/full/core/../cache/rate_limit.json): Failed to open stream: Permission denied in /var/www/html/full/core/helpers.php on line 52
+[03-Jun-2025 08:55:14 UTC] getBasePath: http://localhost/full/
+[03-Jun-2025 08:55:14 UTC] API route NOT matched: GET /images/favicon.png
+[03-Jun-2025 08:55:14 UTC] getBasePath: http://localhost/full/
+[03-Jun-2025 08:55:14 UTC] API route matched: GET /api/reports/rooms/all
+[03-Jun-2025 08:55:14 UTC] PHP Warning:  file_put_contents(/var/www/html/full/core/../cache/rate_limit.json): Failed to open stream: Permission denied in /var/www/html/full/core/helpers.php on line 52
+[03-Jun-2025 08:55:14 UTC] getBasePath: http://localhost/full/
+[03-Jun-2025 08:55:14 UTC] API route matched: GET /api/reports/contracts/all
+[03-Jun-2025 08:55:14 UTC] PHP Warning:  file_put_contents(/var/www/html/full/core/../cache/rate_limit.json): Failed to open stream: Permission denied in /var/www/html/full/core/helpers.php on line 52
+[03-Jun-2025 08:55:14 UTC] getBasePath: http://localhost/full/
+[03-Jun-2025 08:55:14 UTC] API route matched: GET /api/reports/utility-usage/all
+[03-Jun-2025 08:55:14 UTC] PHP Warning:  file_put_contents(/var/www/html/full/core/../cache/rate_limit.json): Failed to open stream: Permission denied in /var/www/html/full/core/helpers.php on line 52
+[03-Jun-2025 08:55:14 UTC] getBasePath: http://localhost/full/
+[03-Jun-2025 08:55:14 UTC] API route matched: GET /api/maintenance-requests
+[03-Jun-2025 08:55:14 UTC] PHP Warning:  file_put_contents(/var/www/html/full/core/../cache/rate_limit.json): Failed to open stream: Permission denied in /var/www/html/full/core/helpers.php on line 52
+[03-Jun-2025 08:55:14 UTC] getBasePath: http://localhost/full/
+[03-Jun-2025 08:55:14 UTC] API route matched: GET /api/tickets
+[03-Jun-2025 08:55:14 UTC] PHP Warning:  file_put_contents(/var/www/html/full/core/../cache/rate_limit.json): Failed to open stream: Permission denied in /var/www/html/full/core/helpers.php on line 52
+[03-Jun-2025 08:55:16 UTC] getBasePath: http://localhost/full/
+[03-Jun-2025 08:55:16 UTC] API route NOT matched: GET /images/favicon.png
+[03-Jun-2025 08:55:17 UTC] getBasePath: http://localhost/full/
+[03-Jun-2025 08:55:17 UTC] API route matched: GET /api/branches
+[03-Jun-2025 08:55:17 UTC] PHP Warning:  file_put_contents(/var/www/html/full/core/../cache/rate_limit.json): Failed to open stream: Permission denied in /var/www/html/full/core/helpers.php on line 52
+[03-Jun-2025 08:55:17 UTC] User ID: 1, Role: admin
+[03-Jun-2025 08:55:17 UTC] getBasePath: http://localhost/full/
+[03-Jun-2025 08:55:17 UTC] API route NOT matched: GET /images/favicon.png
+[03-Jun-2025 08:55:18 UTC] getBasePath: http://localhost/full/
+[03-Jun-2025 08:55:18 UTC] getBasePath: http://localhost/full/
+[03-Jun-2025 08:55:18 UTC] API route NOT matched: GET /assets/useMutation-rxP9d56I.js
+[03-Jun-2025 08:55:18 UTC] API route NOT matched: GET /assets/index.lazy-DIz1Q9BZ.js
+[03-Jun-2025 08:55:18 UTC] getBasePath: http://localhost/full/
+[03-Jun-2025 08:55:18 UTC] API route NOT matched: GET /assets/index.lazy-H9v_Up0O.js
+[03-Jun-2025 09:10:25 UTC] getBasePath: http://localhost/full/
+[03-Jun-2025 09:10:25 UTC] API route NOT matched: GET /
+[03-Jun-2025 09:10:25 UTC] getBasePath: http://localhost/full/
+[03-Jun-2025 09:10:25 UTC] API route NOT matched: GET /assets/index-j9nM6RGn.js
+[03-Jun-2025 09:10:25 UTC] getBasePath: http://localhost/full/
+[03-Jun-2025 09:10:25 UTC] API route NOT matched: GET /assets/index-Da_h3vxR.css
+[03-Jun-2025 09:10:25 UTC] getBasePath: http://localhost/full/
+[03-Jun-2025 09:10:25 UTC] API route NOT matched: GET /images/favicon.png
+[03-Jun-2025 09:10:59 UTC] getBasePath: http://localhost/full/
+[03-Jun-2025 09:10:59 UTC] API route NOT matched: GET /assets/forgot-password.lazy-BpYTHvqf.js
+[03-Jun-2025 09:11:00 UTC] getBasePath: http://localhost/full/
+[03-Jun-2025 09:11:00 UTC] API route matched: POST /api/login
+[03-Jun-2025 09:11:00 UTC] PHP Warning:  file_put_contents(/var/www/html/full/core/../cache/rate_limit.json): Failed to open stream: Permission denied in /var/www/html/full/core/helpers.php on line 52
+[03-Jun-2025 09:11:01 UTC] getBasePath: http://localhost/full/
+[03-Jun-2025 09:11:01 UTC] API route matched: GET /api/branches
+[03-Jun-2025 09:11:01 UTC] PHP Warning:  file_put_contents(/var/www/html/full/core/../cache/rate_limit.json): Failed to open stream: Permission denied in /var/www/html/full/core/helpers.php on line 52
+[03-Jun-2025 09:11:01 UTC] getBasePath: http://localhost/full/
+[03-Jun-2025 09:11:01 UTC] API route matched: GET /api/reports/revenue/all
+[03-Jun-2025 09:11:01 UTC] PHP Warning:  file_put_contents(/var/www/html/full/core/../cache/rate_limit.json): Failed to open stream: Permission denied in /var/www/html/full/core/helpers.php on line 52
+[03-Jun-2025 09:11:01 UTC] User ID: 1, Role: admin
+[03-Jun-2025 09:11:01 UTC] getBasePath: http://localhost/full/
+[03-Jun-2025 09:11:01 UTC] API route NOT matched: GET /images/favicon.png
+[03-Jun-2025 09:11:01 UTC] getBasePath: http://localhost/full/
+[03-Jun-2025 09:11:01 UTC] API route matched: GET /api/reports/rooms/all
+[03-Jun-2025 09:11:01 UTC] PHP Warning:  file_put_contents(/var/www/html/full/core/../cache/rate_limit.json): Failed to open stream: Permission denied in /var/www/html/full/core/helpers.php on line 52
+[03-Jun-2025 09:11:01 UTC] getBasePath: http://localhost/full/
+[03-Jun-2025 09:11:01 UTC] API route matched: GET /api/reports/contracts/all
+[03-Jun-2025 09:11:01 UTC] PHP Warning:  file_put_contents(/var/www/html/full/core/../cache/rate_limit.json): Failed to open stream: Permission denied in /var/www/html/full/core/helpers.php on line 52
+[03-Jun-2025 09:11:01 UTC] getBasePath: http://localhost/full/
+[03-Jun-2025 09:11:01 UTC] API route matched: GET /api/reports/utility-usage/all
+[03-Jun-2025 09:11:01 UTC] PHP Warning:  file_put_contents(/var/www/html/full/core/../cache/rate_limit.json): Failed to open stream: Permission denied in /var/www/html/full/core/helpers.php on line 52
+[03-Jun-2025 09:11:01 UTC] getBasePath: http://localhost/full/
+[03-Jun-2025 09:11:01 UTC] API route matched: GET /api/maintenance-requests
+[03-Jun-2025 09:11:01 UTC] PHP Warning:  file_put_contents(/var/www/html/full/core/../cache/rate_limit.json): Failed to open stream: Permission denied in /var/www/html/full/core/helpers.php on line 52
+[03-Jun-2025 09:11:01 UTC] getBasePath: http://localhost/full/
+[03-Jun-2025 09:11:01 UTC] API route matched: GET /api/tickets
+[03-Jun-2025 09:11:01 UTC] PHP Warning:  file_put_contents(/var/www/html/full/core/../cache/rate_limit.json): Failed to open stream: Permission denied in /var/www/html/full/core/helpers.php on line 52
+[03-Jun-2025 09:11:07 UTC] getBasePath: http://localhost/full/
+[03-Jun-2025 09:11:07 UTC] API route NOT matched: GET /assets/index.lazy-DJnUgXd_.js
+[03-Jun-2025 09:11:07 UTC] getBasePath: http://localhost/full/
+[03-Jun-2025 09:11:07 UTC] API route NOT matched: GET /assets/index-uyHfpxmr.js
+[03-Jun-2025 09:11:07 UTC] getBasePath: http://localhost/full/
+[03-Jun-2025 09:11:07 UTC] API route NOT matched: GET /assets/debounce-DrFXsI8H.js
+[03-Jun-2025 09:11:07 UTC] getBasePath: http://localhost/full/
+[03-Jun-2025 09:11:07 UTC] API route NOT matched: GET /assets/data-table-column-header-B3Lge1xn.js
+[03-Jun-2025 09:11:07 UTC] getBasePath: http://localhost/full/
+[03-Jun-2025 09:11:07 UTC] API route NOT matched: GET /assets/IconEdit-gCz2Ttuw.js
+[03-Jun-2025 09:11:07 UTC] getBasePath: http://localhost/full/
+[03-Jun-2025 09:11:07 UTC] API route NOT matched: GET /assets/schema-CkcrfAqM.js
+[03-Jun-2025 09:11:07 UTC] getBasePath: http://localhost/full/
+[03-Jun-2025 09:11:07 UTC] getBasePath: http://localhost/full/
+[03-Jun-2025 09:11:07 UTC] API route NOT matched: GET /assets/alert-gbH3okgA.js
+[03-Jun-2025 09:11:07 UTC] API route NOT matched: GET /assets/schema-eaPLp-Z-.js
+[03-Jun-2025 09:11:07 UTC] getBasePath: http://localhost/full/
+[03-Jun-2025 09:11:07 UTC] API route NOT matched: GET /assets/IconAlertTriangle-D5iXQf0H.js
+[03-Jun-2025 09:11:07 UTC] getBasePath: http://localhost/full/
+[03-Jun-2025 09:11:07 UTC] API route NOT matched: GET /assets/IconUserPlus-sOHuBRkl.js
+[03-Jun-2025 09:11:07 UTC] getBasePath: http://localhost/full/
+[03-Jun-2025 09:11:07 UTC] API route NOT matched: GET /assets/index.lazy-DJAIzaA8.js
+[03-Jun-2025 09:11:07 UTC] getBasePath: http://localhost/full/
+[03-Jun-2025 09:11:07 UTC] API route NOT matched: GET /assets/select-dropdown-ooj5XAv2.js
+[03-Jun-2025 09:11:07 UTC] getBasePath: http://localhost/full/
+[03-Jun-2025 09:11:07 UTC] API route NOT matched: GET /assets/data-table-faceted-filter-CnJp8diV.js
+[03-Jun-2025 09:11:07 UTC] getBasePath: http://localhost/full/
+[03-Jun-2025 09:11:07 UTC] API route matched: GET /api/users
+[03-Jun-2025 09:11:07 UTC] PHP Warning:  file_put_contents(/var/www/html/full/core/../cache/rate_limit.json): Failed to open stream: Permission denied in /var/www/html/full/core/helpers.php on line 52
+[03-Jun-2025 09:11:07 UTC] getBasePath: http://localhost/full/
+[03-Jun-2025 09:11:07 UTC] API route NOT matched: GET /images/favicon.png

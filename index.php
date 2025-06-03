@@ -78,7 +78,15 @@ if (file_exists($reactIndex)) {
     $distPath = $distDir . '/index.html';
     if (file_exists($distPath)) {
         header('Content-Type: text/html');
-        readfile($distPath);
+        //readfile($distPath);
+        $basePath = rtrim($basePath, '/'); // e.g. "", "/project"
+        $html = file_get_contents($distPath);
+
+        // Thêm biến JS vào <head>
+        $injectScript = "<script>window.__APP_BASENAME__ = " . json_encode($basePath) . ";</script>";
+        $html = preg_replace('/<head>/', "<head>\n$injectScript", $html, 1);
+
+        echo $html;
         exit;
     }
 } else {
