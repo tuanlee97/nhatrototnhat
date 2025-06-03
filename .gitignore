@@ -1,0 +1,23 @@
+#Thư mục và file nhạy cảm
+/config/database.php
+/config/installed.php
+/config/app.php
+/logs/*
+!/logs/.gitkeep
+/cache/*
+/dist/*
+!/dist/.gitkeep
+#File tạm và IDE
+*.log
+*.cache
+.vscode/
+.idea/
+*.swp
+*.swo
+
+#File backup database
+.sql
+backup_.sql
+
+#File môi trường
+.env
