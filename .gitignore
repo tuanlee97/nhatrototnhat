@@ -5,8 +5,7 @@
 /logs/*
 !/logs/.gitkeep
 /cache/*
-/dist/*
-!/dist/.gitkeep
+
 #File tạm và IDE
 *.log
 *.cache
@@ -21,3 +20,4 @@ backup_.sql
 
 #File môi trường
 .env
+cache/rate_limit.json
